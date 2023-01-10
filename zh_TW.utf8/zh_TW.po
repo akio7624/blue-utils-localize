@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-30 22:18+0900\n"
+"POT-Creation-Date: 2023-01-10 21:03+0900\n"
 "PO-Revision-Date: 2022-12-23 20:10+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -56,8 +56,8 @@ msgstr "Blue Archive Utils"
 #: __ROOT__/table/favor.html:144
 #: __ROOT__/tool/item-calculator-result.html:152
 #: __ROOT__/tool/item-calculator.html:71
-#: __ROOT__/contents/event.html:114
-#: __ROOT__/contents/stage.html:235
+#: __ROOT__/contents/event.html:115
+#: __ROOT__/contents/stage.html:245
 msgid "홈"
 msgstr "Home"
 
@@ -339,7 +339,7 @@ msgstr "Please choose an item"
 #: __ROOT__/furniture.html:84
 #: __ROOT__/table/favor.html:158
 #: __ROOT__/tool/item-calculator.html:140
-#: __ROOT__/contents/stage.html:355
+#: __ROOT__/contents/stage.html:365
 msgid "서버"
 msgstr "server"
 
@@ -470,8 +470,8 @@ msgid "학생별<=>선물별 선호도 데이터 테이블"
 msgstr "Preference data table by student and gift"
 
 #: __ROOT__/index.html:153
-#: __ROOT__/contents/event.html:115
-#: __ROOT__/contents/stage.html:236
+#: __ROOT__/contents/event.html:116
+#: __ROOT__/contents/stage.html:246
 msgid "콘텐츠"
 msgstr "Contents"
 
@@ -484,14 +484,19 @@ msgid "서버별 전체 이벤트 정보 보기"
 msgstr "View all event information by server"
 
 #: __ROOT__/index.html:172
-#: __ROOT__/contents/event.html:125
-#: __ROOT__/contents/stage.html:246
+#: __ROOT__/contents/event.html:126
+#: __ROOT__/contents/stage.html:256
 msgid "임무 정보"
 msgstr "任務資訊"
 
 #: __ROOT__/index.html:175
 msgid "임무/현상수배/특별의뢰/교류회 정보 보기"
 msgstr "显示任務/懸賞通緝/特殊任務/學園交流會的信息"
+
+#: __ROOT__/lib/html_snippet/footer.html:8
+#, fuzzy
+msgid "사이트 번역하기"
+msgstr "Introduce"
 
 #: __ROOT__/lib/html_snippet/navbar.html:99
 msgid "기본 서버"
@@ -1108,13 +1113,13 @@ msgstr "Error occurred during calculation"
 
 #: __ROOT__/tool/stat_validator.php:11
 #: __ROOT__/tool/item-calculator.html:35
-#: __ROOT__/contents/stage.html:358
+#: __ROOT__/contents/stage.html:368
 msgid "일본 서버"
 msgstr "JP Server"
 
 #: __ROOT__/tool/stat_validator.php:12
 #: __ROOT__/tool/item-calculator.html:36
-#: __ROOT__/contents/stage.html:359
+#: __ROOT__/contents/stage.html:369
 msgid "글로벌 서버"
 msgstr "Global Server"
 
@@ -1389,7 +1394,7 @@ msgid "계산"
 msgstr "Calculate"
 
 #: __ROOT__/contents/event.html:20
-#: __ROOT__/contents/event.html:116
+#: __ROOT__/contents/event.html:117
 msgid "이벤트"
 msgstr "Event"
 
@@ -1427,159 +1432,165 @@ msgid "업적"
 msgstr "成就"
 
 #: __ROOT__/contents/event.html:45
+msgid "고정 미션"
+msgstr ""
+
+#: __ROOT__/contents/event.html:46
 msgid "이 버튼은 장식입니다"
 msgstr "This button is for decoration"
 
-#: __ROOT__/contents/event.html:46
+#: __ROOT__/contents/event.html:47
 msgid "보너스 학생이 없습니다"
 msgstr "There's no bonus recipients"
 
-#: __ROOT__/contents/event.html:47
+#: __ROOT__/contents/event.html:48
 msgid "임무가 없습니다"
 msgstr "There's no stage"
 
-#: __ROOT__/contents/event.html:48
+#: __ROOT__/contents/event.html:49
 msgid "복각"
 msgstr "Rerun"
 
-#: __ROOT__/contents/event.html:49
+#: __ROOT__/contents/event.html:50
 msgid "횟수"
 msgstr "次數"
 
-#: __ROOT__/contents/event.html:50
+#: __ROOT__/contents/event.html:51
 msgid "바로가기"
 msgstr "立即前往"
 
-#: __ROOT__/contents/event.html:51
+#: __ROOT__/contents/event.html:52
 #: __ROOT__/contents/stage.html:64
 msgid "임무 완료"
 msgstr "任務完成"
 
-#: __ROOT__/contents/event.html:52
+#: __ROOT__/contents/event.html:53
 #: __ROOT__/contents/stage.html:65
 msgid "S랭크 {A}회 획득"
 msgstr "獲得S等級{A}次"
 
-#: __ROOT__/contents/event.html:53
+#: __ROOT__/contents/event.html:54
 #: __ROOT__/contents/stage.html:66
 msgid "{A}턴 내 스테이지 클리어"
 msgstr "{A}回合內完成關卡"
 
-#: __ROOT__/contents/event.html:54
+#: __ROOT__/contents/event.html:55
 #: __ROOT__/contents/stage.html:67
 msgid "필요 재화 없음"
 msgstr "No entry items required"
 
-#: __ROOT__/contents/event.html:55
+#: __ROOT__/contents/event.html:56
 #: __ROOT__/contents/stage.html:68
 msgid "{A} 사용"
 msgstr "{A} need"
 
-#: __ROOT__/contents/event.html:56
+#: __ROOT__/contents/event.html:57
 #: __ROOT__/contents/stage.html:69
 msgid "소탕 시작"
 msgstr "掃蕩開始"
 
-#: __ROOT__/contents/event.html:57
+#: __ROOT__/contents/event.html:58
 #: __ROOT__/contents/stage.html:70
 msgid "소탕 불가"
 msgstr "不可掃蕩"
 
-#: __ROOT__/contents/event.html:58
+#: __ROOT__/contents/event.html:59
 #: __ROOT__/contents/stage.html:71
 msgid "초회"
 msgstr "首次"
 
-#: __ROOT__/contents/event.html:59
+#: __ROOT__/contents/event.html:60
 #: __ROOT__/contents/stage.html:72
 msgid "레어"
 msgstr "稀有"
 
-#: __ROOT__/contents/event.html:141
-#: __ROOT__/contents/event.html:219
-#: __ROOT__/contents/stage.html:262
-#: __ROOT__/contents/stage.html:338
+#: __ROOT__/contents/event.html:142
+#: __ROOT__/contents/event.html:220
+#: __ROOT__/contents/stage.html:272
+#: __ROOT__/contents/stage.html:348
 msgid "적 정보"
 msgstr "敵人資訊"
 
-#: __ROOT__/contents/event.html:146
-#: __ROOT__/contents/stage.html:267
+#: __ROOT__/contents/event.html:147
+#: __ROOT__/contents/stage.html:277
 msgid "추천"
 msgstr "推薦"
 
-#: __ROOT__/contents/event.html:157
-#: __ROOT__/contents/stage.html:278
+#: __ROOT__/contents/event.html:158
+#: __ROOT__/contents/stage.html:288
 msgid "임무 목표(☆)"
 msgstr "任務目標 (☆)"
 
-#: __ROOT__/contents/event.html:173
-#: __ROOT__/contents/stage.html:294
+#: __ROOT__/contents/event.html:174
+#: __ROOT__/contents/stage.html:304
 msgid "획득 가능 보상"
 msgstr "可獲得獎勵"
 
-#: __ROOT__/contents/event.html:182
-#: __ROOT__/contents/stage.html:303
+#: __ROOT__/contents/event.html:183
+#: __ROOT__/contents/stage.html:313
 msgid "이 스테이지는 소탕을 사용할 수 없습니다."
 msgstr "該關卡無法掃蕩。"
 
-#: __ROOT__/contents/event.html:183
-#: __ROOT__/contents/event.html:192
-#: __ROOT__/contents/stage.html:304
-#: __ROOT__/contents/stage.html:313
+#: __ROOT__/contents/event.html:184
+#: __ROOT__/contents/event.html:193
+#: __ROOT__/contents/stage.html:314
+#: __ROOT__/contents/stage.html:323
 msgid "소탕"
 msgstr "掃蕩"
 
-#: __ROOT__/contents/event.html:235
-#: __ROOT__/contents/event.html:245
+#: __ROOT__/contents/event.html:236
+#: __ROOT__/contents/event.html:246
 msgid "일본서버"
 msgstr "JP"
 
-#: __ROOT__/contents/event.html:238
-#: __ROOT__/contents/event.html:242
+#: __ROOT__/contents/event.html:239
+#: __ROOT__/contents/event.html:243
 msgid "글로벌서버"
 msgstr "Global"
 
-#: __ROOT__/contents/event.html:356
+#: __ROOT__/contents/event.html:357
 msgid ""
 "이 이벤트는 아직 시작되지 않았습니다. 일부 정보는 누락되었거나 추후 변경될 "
 "수 있습니다."
-msgstr "This event has not started yet. Some information is missing or subject to further changes."
+msgstr ""
+"This event has not started yet. Some information is missing or subject to "
+"further changes."
 
-#: __ROOT__/contents/event.html:359
+#: __ROOT__/contents/event.html:360
 msgid "일정"
 msgstr "Schedule"
 
-#: __ROOT__/contents/event.html:363
+#: __ROOT__/contents/event.html:364
 msgid "이벤트 시작"
 msgstr "Event Start"
 
-#: __ROOT__/contents/event.html:367
+#: __ROOT__/contents/event.html:368
 msgid "콘텐츠 종료"
 msgstr "Contents End"
 
-#: __ROOT__/contents/event.html:371
+#: __ROOT__/contents/event.html:372
 msgid "이벤트 종료"
 msgstr "Event End"
 
-#: __ROOT__/contents/event.html:377
+#: __ROOT__/contents/event.html:378
 msgid "상점"
 msgstr "商店"
 
-#: __ROOT__/contents/event.html:387
+#: __ROOT__/contents/event.html:388
 msgid "보너스 학생"
 msgstr "獎勵對象"
 
-#: __ROOT__/contents/event.html:395
-#: __ROOT__/contents/stage.html:367
+#: __ROOT__/contents/event.html:396
+#: __ROOT__/contents/stage.html:377
 msgid "임무"
 msgstr "任務"
 
-#: __ROOT__/contents/event.html:405
+#: __ROOT__/contents/event.html:406
 msgid "미션"
 msgstr "任務"
 
 #: __ROOT__/contents/stage.html:51
-#: __ROOT__/contents/stage.html:237
+#: __ROOT__/contents/stage.html:247
 msgid "스테이지"
 msgstr "Stage"
 
@@ -1591,71 +1602,71 @@ msgstr "星星獲得現況({0}/{1})"
 msgid "지역이 범위를 벗어납니다"
 msgstr "The area is out of range"
 
-#: __ROOT__/contents/stage.html:370
+#: __ROOT__/contents/stage.html:380
 msgid "현상수배"
 msgstr "懸賞通緝"
 
-#: __ROOT__/contents/stage.html:373
+#: __ROOT__/contents/stage.html:383
 msgid "특별의뢰"
 msgstr "特殊任務"
 
-#: __ROOT__/contents/stage.html:376
+#: __ROOT__/contents/stage.html:386
 msgid "학원교류회"
 msgstr "學園交流會"
 
-#: __ROOT__/contents/stage.html:384
+#: __ROOT__/contents/stage.html:394
 msgid "고가도로"
 msgstr "高架公路"
 
-#: __ROOT__/contents/stage.html:387
+#: __ROOT__/contents/stage.html:397
 msgid "사막 기찻길"
 msgstr "沙漠鐵道"
 
-#: __ROOT__/contents/stage.html:390
+#: __ROOT__/contents/stage.html:400
 msgid "교실"
 msgstr "教室"
 
-#: __ROOT__/contents/stage.html:396
+#: __ROOT__/contents/stage.html:406
 msgid "거점 방어"
 msgstr "據點防禦"
 
-#: __ROOT__/contents/stage.html:399
+#: __ROOT__/contents/stage.html:409
 msgid "물건 회수"
 msgstr "回收物品"
 
-#: __ROOT__/contents/stage.html:405
+#: __ROOT__/contents/stage.html:415
 msgid "트리니티"
 msgstr "三一"
 
-#: __ROOT__/contents/stage.html:408
+#: __ROOT__/contents/stage.html:418
 msgid "게헨나"
 msgstr "格黑娜"
 
-#: __ROOT__/contents/stage.html:411
+#: __ROOT__/contents/stage.html:421
 msgid "밀레니엄"
 msgstr "千年"
 
-#: __ROOT__/contents/stage.html:428
+#: __ROOT__/contents/stage.html:438
 msgid "불러오는 중..."
 msgstr "Loading..."
 
-#: __ROOT__/contents/stage.html:448
+#: __ROOT__/contents/stage.html:458
 msgid "보상 완료"
 msgstr "獎勵完成"
 
-#: __ROOT__/contents/stage.html:456
+#: __ROOT__/contents/stage.html:466
 msgid "지역 이동"
 msgstr "Move area"
 
-#: __ROOT__/contents/stage.html:469
+#: __ROOT__/contents/stage.html:479
 msgid "학원 버프"
 msgstr "學園增益效果"
 
-#: __ROOT__/contents/stage.html:470
+#: __ROOT__/contents/stage.html:480
 msgid "추천 학원 학생을 부대에 편성하면 능력치가 올라갑니다."
 msgstr "把推薦學園學生編入部隊時，能力值會上升。"
 
-#: __ROOT__/contents/stage.html:480
+#: __ROOT__/contents/stage.html:490
 msgid "스테이지 목록"
 msgstr "Stage List"
 
@@ -1670,9 +1681,6 @@ msgstr "Stage List"
 
 #~ msgid "서포터"
 #~ msgstr "SPECIAL"
-
-#~ msgid "사이트 소개"
-#~ msgstr "Introduce"
 
 #~ msgid "(OR검색) "
 #~ msgstr "(OR search) "
