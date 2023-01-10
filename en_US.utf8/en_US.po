@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-10 21:03+0900\n"
-"PO-Revision-Date: 2022-12-23 20:22+0900\n"
+"PO-Revision-Date: 2023-01-10 21:09+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -17,45 +17,30 @@ msgstr ""
 "X-Poedit-KeywordsList: _\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: __ROOT__/site-update.html:9
-#: __ROOT__/site-update.html:47
+#: __ROOT__/site-update.html:9 __ROOT__/site-update.html:47
 #: __ROOT__/lib/html_snippet/footer.html:6
 msgid "사이트 업데이트"
 msgstr "Site Update"
 
-#: __ROOT__/site-update.html:9
-#: __ROOT__/introduce.html:9
-#: __ROOT__/student-detail-idol.html:20
-#: __ROOT__/err/maintenance.html:9
-#: __ROOT__/err/ie.html:23
-#: __ROOT__/item.html:9
-#: __ROOT__/index.html:10
+#: __ROOT__/site-update.html:9 __ROOT__/introduce.html:9
+#: __ROOT__/student-detail-idol.html:20 __ROOT__/err/maintenance.html:9
+#: __ROOT__/err/ie.html:23 __ROOT__/item.html:9 __ROOT__/index.html:10
 #: __ROOT__/lib/html_snippet/navbar.html:71
-#: __ROOT__/student-detail-normal.html:454
-#: __ROOT__/furniture.html:9
-#: __ROOT__/flying-yuuka.html:10
-#: __ROOT__/whats-going-on.html:19
-#: __ROOT__/student.html:159
-#: __ROOT__/tool/item-calculator-result.html:78
-#: __ROOT__/tool/item-calculator.html:23
-#: __ROOT__/contents/event.html:20
+#: __ROOT__/student-detail-normal.html:454 __ROOT__/furniture.html:9
+#: __ROOT__/flying-yuuka.html:10 __ROOT__/whats-going-on.html:19
+#: __ROOT__/student.html:159 __ROOT__/tool/item-calculator-result.html:78
+#: __ROOT__/tool/item-calculator.html:23 __ROOT__/contents/event.html:20
 #: __ROOT__/contents/stage.html:51
 msgid "블루아카 유틸"
 msgstr "Blue Archive Utils"
 
-#: __ROOT__/site-update.html:46
-#: __ROOT__/introduce.html:49
-#: __ROOT__/student-detail-idol.html:43
-#: __ROOT__/item.html:30
-#: __ROOT__/index.html:42
-#: __ROOT__/student-detail-normal.html:518
-#: __ROOT__/furniture.html:39
-#: __ROOT__/whats-going-on.html:65
-#: __ROOT__/student.html:176
-#: __ROOT__/table/favor.html:144
+#: __ROOT__/site-update.html:46 __ROOT__/introduce.html:49
+#: __ROOT__/student-detail-idol.html:43 __ROOT__/item.html:30
+#: __ROOT__/index.html:42 __ROOT__/student-detail-normal.html:518
+#: __ROOT__/furniture.html:39 __ROOT__/whats-going-on.html:65
+#: __ROOT__/student.html:176 __ROOT__/table/favor.html:144
 #: __ROOT__/tool/item-calculator-result.html:152
-#: __ROOT__/tool/item-calculator.html:71
-#: __ROOT__/contents/event.html:115
+#: __ROOT__/tool/item-calculator.html:71 __ROOT__/contents/event.html:115
 #: __ROOT__/contents/stage.html:245
 msgid "홈"
 msgstr "Home"
@@ -68,13 +53,11 @@ msgstr "Site Update History"
 msgid "일본 서버 데이터: "
 msgstr "JP Server Data: "
 
-#: __ROOT__/site-update.html:59
-#: __ROOT__/site-update.html:60
+#: __ROOT__/site-update.html:59 __ROOT__/site-update.html:60
 msgid "클라이언트 버전: "
 msgstr "Client Ver.: "
 
-#: __ROOT__/site-update.html:59
-#: __ROOT__/site-update.html:60
+#: __ROOT__/site-update.html:59 __ROOT__/site-update.html:60
 msgid "마지막 데이터 업데이트: "
 msgstr "Last Data Update: "
 
@@ -82,8 +65,7 @@ msgstr "Last Data Update: "
 msgid "한국 서버 데이터: "
 msgstr "Korean Server Data: "
 
-#: __ROOT__/site-update.html:65
-#: __ROOT__/introduce.html:69
+#: __ROOT__/site-update.html:65 __ROOT__/introduce.html:69
 msgid ""
 "ㆍ트렐로(상세 업데이트 로그 및 개발 상황): <a href=\"https://trello.com/b/"
 "z5IEHSQm\" target=\"_blank\">https://trello.com/b/z5IEHSQm</a>"
@@ -91,10 +73,8 @@ msgstr ""
 "ㆍTrello (Detailed Update Log and Development Status): <a href=\"https://"
 "trello.com/b/z5IEHSQm\" target=\"_blank\">https://trello.com/b/z5IEHSQm</a>"
 
-#: __ROOT__/introduce.html:9
-#: __ROOT__/introduce.html:50
-#: __ROOT__/introduce.html:56
-#: __ROOT__/lib/html_snippet/footer.html:4
+#: __ROOT__/introduce.html:9 __ROOT__/introduce.html:50
+#: __ROOT__/introduce.html:56 __ROOT__/lib/html_snippet/footer.html:4
 msgid "소개 및 기타"
 msgstr "Introduce"
 
@@ -119,15 +99,15 @@ msgstr ""
 
 #: __ROOT__/introduce.html:68
 msgid ""
-"ㆍ버그 제보: <a href=\"https://forms.gle/u9smgnppCUZWi1V37\" target=\"_blank"
-"\">https://forms.gle/u9smgnppCUZWi1V37</a><br>ㆍ기능 제안: <a href=\"https://"
-"forms.gle/f6uhN82aszgKjESj7\" target=\"_blank\">https://forms.gle/"
-"f6uhN82aszgKjESj7</a><br>"
+"ㆍ버그 제보: <a href=\"https://forms.gle/u9smgnppCUZWi1V37\" "
+"target=\"_blank\">https://forms.gle/u9smgnppCUZWi1V37</a><br>ㆍ기능 제안: <a "
+"href=\"https://forms.gle/f6uhN82aszgKjESj7\" target=\"_blank\">https://forms."
+"gle/f6uhN82aszgKjESj7</a><br>"
 msgstr ""
-"ㆍBug Report: <a href=\"https://forms.gle/u9smgnppCUZWi1V37\" target=\"_blank"
-"\">https://forms.gle/u9smgnppCUZWi1V37</a><br>ㆍFeature Request: <a href="
-"\"https://forms.gle/f6uhN82aszgKjESj7\" target=\"_blank\">https://forms.gle/"
-"f6uhN82aszgKjESj7</a>"
+"ㆍBug Report: <a href=\"https://forms.gle/u9smgnppCUZWi1V37\" "
+"target=\"_blank\">https://forms.gle/u9smgnppCUZWi1V37</a><br>ㆍFeature "
+"Request: <a href=\"https://forms.gle/f6uhN82aszgKjESj7\" "
+"target=\"_blank\">https://forms.gle/f6uhN82aszgKjESj7</a>"
 
 #: __ROOT__/introduce.html:74
 msgid "고지 사항"
@@ -136,9 +116,9 @@ msgstr "Notice"
 #: __ROOT__/introduce.html:78
 msgid ""
 "본 웹 사이트는 <a href=\"https://www.nexongames.co.kr/\">NEXON Games Co., "
-"Ltd.</a>, <a href=\"https://www.yostar.co.jp/\">Yostar</a> 및 <a href="
-"\"https://www.nexon.com/Home/Game\">NEXON KOREA Corp.</a>과 관계가 없는 개인"
-"이 만든 <b>비공식</b> 팬 사이트이며, 수익을 창출하지 않습니다."
+"Ltd.</a>, <a href=\"https://www.yostar.co.jp/\">Yostar</a> 및 <a "
+"href=\"https://www.nexon.com/Home/Game\">NEXON KOREA Corp.</a>과 관계가 없는 "
+"개인이 만든 <b>비공식</b> 팬 사이트이며, 수익을 창출하지 않습니다."
 msgstr ""
 "This website is an <b>informal</b> fan site created by individuals unrelated "
 "to <a href=\"https://www.nexongames.co.kr/\">NEXON Games Co., Ltd.</a>, <a "
@@ -158,9 +138,9 @@ msgstr "ㆍ몰?루 Image: <a href=\"https://www.pixiv.net/artworks/89423246\">"
 #: __ROOT__/introduce.html:90
 msgid ""
 "ㆍ각종 인게임 에셋 및 게임 데이터: 블루 아카이브(<a href=\"https://www."
-"yostar.co.jp/\">Yostar Inc.</a>, <a href=\"https://www.nexon.com/Home/Game"
-"\">NEXON KOREA Corp</a>, <a href=\"https://www.natgames.co.kr/kr/index.php"
-"\">NAT GAMES Corp</a>)"
+"yostar.co.jp/\">Yostar Inc.</a>, <a href=\"https://www.nexon.com/Home/"
+"Game\">NEXON KOREA Corp</a>, <a href=\"https://www.natgames.co.kr/kr/index."
+"php\">NAT GAMES Corp</a>)"
 msgstr ""
 "ㆍVarious in-game assets and game data: BlueArchive(<a href=\"https://www."
 "nexongames.co.kr/\">NEXON Games Co., Ltd.</a>, <a href=\"https://www.yostar."
@@ -169,13 +149,13 @@ msgstr ""
 
 #: __ROOT__/introduce.html:93
 msgid ""
-"ㆍ헤일로 이미지: <a href=\"https://bluearchive.wikiru.jp/?HALO"
-"%E4%B8%80%E8%A6%A7\">https://bluearchive.wikiru.jp/?HALO%E4%B8%80%E8%A6%A7</"
-"a>"
+"ㆍ헤일로 이미지: <a href=\"https://bluearchive.wikiru.jp/?"
+"HALO%E4%B8%80%E8%A6%A7\">https://bluearchive.wikiru.jp/?"
+"HALO%E4%B8%80%E8%A6%A7</a>"
 msgstr ""
-"ㆍHalo Image: <a href=\"https://bluearchive.wikiru.jp/?HALO"
-"%E4%B8%80%E8%A6%A7\">https://bluearchive.wikiru.jp/?HALO%E4%B8%80%E8%A6%A7</"
-"a>"
+"ㆍHalo Image: <a href=\"https://bluearchive.wikiru.jp/?"
+"HALO%E4%B8%80%E8%A6%A7\">https://bluearchive.wikiru.jp/?"
+"HALO%E4%B8%80%E8%A6%A7</a>"
 
 #: __ROOT__/introduce.html:96
 msgid "ㆍ메모리얼 관련 리소스: 직접 녹화, 유튜브, 커뮤니티 등"
@@ -196,15 +176,12 @@ msgstr ""
 msgid "연락처"
 msgstr "Contact"
 
-#: __ROOT__/introduce.html:108
-#: __ROOT__/student-detail-normal.html:1539
+#: __ROOT__/introduce.html:108 __ROOT__/student-detail-normal.html:1539
 msgid "표시하기"
 msgstr "Show"
 
-#: __ROOT__/student-detail-idol.html:44
-#: __ROOT__/index.html:55
-#: __ROOT__/student-detail-normal.html:519
-#: __ROOT__/student.html:159
+#: __ROOT__/student-detail-idol.html:44 __ROOT__/index.html:55
+#: __ROOT__/student-detail-normal.html:519 __ROOT__/student.html:159
 #: __ROOT__/student.html:177
 msgid "학생 명부"
 msgstr "Student List"
@@ -220,8 +197,7 @@ msgid "정보"
 msgstr "Information"
 
 #: __ROOT__/student-detail-idol.html:135
-#: __ROOT__/student-detail-normal.html:834
-#: __ROOT__/student.html:304
+#: __ROOT__/student-detail-normal.html:834 __ROOT__/student.html:304
 msgid "동아리"
 msgstr "Club"
 
@@ -276,8 +252,7 @@ msgstr "Blue Archive Utils - 403 FORBIDDEN"
 msgid "당신의 접근 권한,"
 msgstr "Permission Denied"
 
-#: __ROOT__/err/403.html:26
-#: __ROOT__/err/404.html:26
+#: __ROOT__/err/403.html:26 __ROOT__/err/404.html:26
 msgid "몰?루"
 msgstr " "
 
@@ -317,16 +292,12 @@ msgstr "Blue Archive Utils - 404 NOT FOUND"
 msgid "당신이 찾는 페이지,"
 msgstr "Page Not Found"
 
-#: __ROOT__/item.html:9
-#: __ROOT__/item.html:31
-#: __ROOT__/index.html:76
+#: __ROOT__/item.html:9 __ROOT__/item.html:31 __ROOT__/index.html:76
 msgid "아이템 도감"
 msgstr "Item List"
 
-#: __ROOT__/item.html:20
-#: __ROOT__/furniture.html:22
-#: __ROOT__/table/favor.html:135
-#: __ROOT__/table/favor.html:174
+#: __ROOT__/item.html:20 __ROOT__/furniture.html:22
+#: __ROOT__/table/favor.html:135 __ROOT__/table/favor.html:174
 msgid "전체"
 msgstr "ALL"
 
@@ -334,26 +305,20 @@ msgstr "ALL"
 msgid "아이템을 선택해주세요"
 msgstr "Please choose an item"
 
-#: __ROOT__/item.html:54
-#: __ROOT__/furniture.html:84
-#: __ROOT__/table/favor.html:158
-#: __ROOT__/tool/item-calculator.html:140
+#: __ROOT__/item.html:54 __ROOT__/furniture.html:84
+#: __ROOT__/table/favor.html:158 __ROOT__/tool/item-calculator.html:140
 #: __ROOT__/contents/stage.html:365
 msgid "서버"
 msgstr "server"
 
-#: __ROOT__/item.html:57
-#: __ROOT__/lib/html_snippet/navbar.html:105
-#: __ROOT__/furniture.html:87
-#: __ROOT__/table/favor.html:161
+#: __ROOT__/item.html:57 __ROOT__/lib/html_snippet/navbar.html:105
+#: __ROOT__/furniture.html:87 __ROOT__/table/favor.html:161
 #: __ROOT__/tool/item-calculator.html:142
 msgid "일본"
 msgstr "JP"
 
-#: __ROOT__/item.html:58
-#: __ROOT__/lib/html_snippet/navbar.html:106
-#: __ROOT__/furniture.html:88
-#: __ROOT__/table/favor.html:162
+#: __ROOT__/item.html:58 __ROOT__/lib/html_snippet/navbar.html:106
+#: __ROOT__/furniture.html:88 __ROOT__/table/favor.html:162
 #: __ROOT__/tool/item-calculator.html:143
 msgid "글로벌"
 msgstr "Global"
@@ -366,8 +331,7 @@ msgstr "Item Category"
 msgid "경험치 아이템"
 msgstr "EXP item"
 
-#: __ROOT__/item.html:66
-#: __ROOT__/table/favor.html:134
+#: __ROOT__/item.html:66 __ROOT__/table/favor.html:134
 #: __ROOT__/table/favor.html:146
 msgid "선물"
 msgstr "Gift"
@@ -392,9 +356,7 @@ msgstr "Item"
 msgid "코인"
 msgstr "Coin"
 
-#: __ROOT__/item.html:75
-#: __ROOT__/furniture.html:24
-#: __ROOT__/furniture.html:99
+#: __ROOT__/item.html:75 __ROOT__/furniture.html:24 __ROOT__/furniture.html:99
 msgid "분류"
 msgstr "Category"
 
@@ -418,9 +380,7 @@ msgstr "Book"
 msgid "각종 아이템들의 목록입니다"
 msgstr "It's a list of items"
 
-#: __ROOT__/index.html:87
-#: __ROOT__/furniture.html:9
-#: __ROOT__/furniture.html:40
+#: __ROOT__/index.html:87 __ROOT__/furniture.html:9 __ROOT__/furniture.html:40
 msgid "가구 도감"
 msgstr "Furniture List"
 
@@ -428,17 +388,14 @@ msgstr "Furniture List"
 msgid "테마별 가구 목록입니다"
 msgstr "List of furnitures by series"
 
-#: __ROOT__/index.html:100
-#: __ROOT__/tool/item-calculator-result.html:153
+#: __ROOT__/index.html:100 __ROOT__/tool/item-calculator-result.html:153
 #: __ROOT__/tool/item-calculator.html:72
 msgid "도구"
 msgstr "Tool"
 
-#: __ROOT__/index.html:107
-#: __ROOT__/tool/item-calculator-result.html:78
+#: __ROOT__/index.html:107 __ROOT__/tool/item-calculator-result.html:78
 #: __ROOT__/tool/item-calculator-result.html:154
-#: __ROOT__/tool/item-calculator.html:23
-#: __ROOT__/tool/item-calculator.html:73
+#: __ROOT__/tool/item-calculator.html:23 __ROOT__/tool/item-calculator.html:73
 msgid "재화 계산기"
 msgstr "Item Calculator"
 
@@ -446,8 +403,7 @@ msgstr "Item Calculator"
 msgid "레벨/장비/스킬작 재화 계산기"
 msgstr "Level/Equipment/Skill-Up Item Calculator"
 
-#: __ROOT__/index.html:119
-#: __ROOT__/flying-yuuka.html:10
+#: __ROOT__/index.html:119 __ROOT__/flying-yuuka.html:10
 msgid "플라잉 유우카"
 msgstr "Flying Yuuka"
 
@@ -455,8 +411,7 @@ msgstr "Flying Yuuka"
 msgid "플라잉 유우카 화면보호기"
 msgstr "Flying Yuuka Screensaver"
 
-#: __ROOT__/index.html:132
-#: __ROOT__/table/favor.html:145
+#: __ROOT__/index.html:132 __ROOT__/table/favor.html:145
 msgid "테이블"
 msgstr "Table"
 
@@ -468,8 +423,7 @@ msgstr "Gift Data"
 msgid "학생별<=>선물별 선호도 데이터 테이블"
 msgstr "Preference data table by student and gift"
 
-#: __ROOT__/index.html:153
-#: __ROOT__/contents/event.html:116
+#: __ROOT__/index.html:153 __ROOT__/contents/event.html:116
 #: __ROOT__/contents/stage.html:246
 msgid "콘텐츠"
 msgstr "Contents"
@@ -482,8 +436,7 @@ msgstr "Event Info"
 msgid "서버별 전체 이벤트 정보 보기"
 msgstr "View all event information by server"
 
-#: __ROOT__/index.html:172
-#: __ROOT__/contents/event.html:126
+#: __ROOT__/index.html:172 __ROOT__/contents/event.html:126
 #: __ROOT__/contents/stage.html:256
 msgid "임무 정보"
 msgstr "Mission Info"
@@ -493,9 +446,8 @@ msgid "임무/현상수배/특별의뢰/교류회 정보 보기"
 msgstr "View Mission/Bounty/Commissions/Scrimmage information"
 
 #: __ROOT__/lib/html_snippet/footer.html:8
-#, fuzzy
 msgid "사이트 번역하기"
-msgstr "Introduce"
+msgstr "Translating Site"
 
 #: __ROOT__/lib/html_snippet/navbar.html:99
 msgid "기본 서버"
@@ -594,13 +546,11 @@ msgstr "Halo"
 msgid "스킨 목록"
 msgstr "Skin List"
 
-#: __ROOT__/student-detail-normal.html:758
-#: __ROOT__/api/tooltip.php:159
+#: __ROOT__/student-detail-normal.html:758 __ROOT__/api/tooltip.php:159
 msgid "기본"
 msgstr "Default"
 
-#: __ROOT__/student-detail-normal.html:759
-#: __ROOT__/api/tooltip.php:159
+#: __ROOT__/student-detail-normal.html:759 __ROOT__/api/tooltip.php:159
 msgid "최대"
 msgstr "Max"
 
@@ -817,10 +767,8 @@ msgstr "Dialog"
 msgid "기타 대사"
 msgstr "Etc. Dialog"
 
-#: __ROOT__/api/category.php:8
-#: __ROOT__/api/furniture.php:7
-#: __ROOT__/api/furniture-group.php:7
-#: __ROOT__/api/student-filter.php:9
+#: __ROOT__/api/category.php:8 __ROOT__/api/furniture.php:7
+#: __ROOT__/api/furniture-group.php:7 __ROOT__/api/student-filter.php:9
 msgid "파라미터가 없습니다."
 msgstr "No Parameter."
 
@@ -836,8 +784,7 @@ msgstr "Failed to process request."
 msgid "목록을 가져오지 못했습니다."
 msgstr "Failed to get list."
 
-#: __ROOT__/api/item.php:11
-#: __ROOT__/api/table/favor-table.php:9
+#: __ROOT__/api/item.php:11 __ROOT__/api/table/favor-table.php:9
 msgid "파라미터가 부족합니다."
 msgstr "Insufficient parameter."
 
@@ -892,13 +839,11 @@ msgstr "Heavy"
 msgid "특수장갑"
 msgstr "Special"
 
-#: __ROOT__/furniture.html:23
-#: __ROOT__/furniture.html:92
+#: __ROOT__/furniture.html:23 __ROOT__/furniture.html:92
 msgid "테마"
 msgstr "Theme"
 
-#: __ROOT__/furniture.html:25
-#: __ROOT__/furniture.html:108
+#: __ROOT__/furniture.html:25 __ROOT__/furniture.html:108
 msgid "테마를 선택해주세요."
 msgstr "Please choose an seriese."
 
@@ -1073,8 +1018,7 @@ msgstr "Student"
 msgid "선물별"
 msgstr "Gift"
 
-#: __ROOT__/table/favor.html:199
-#: __ROOT__/tool/item-calculator-result.html:186
+#: __ROOT__/table/favor.html:199 __ROOT__/tool/item-calculator-result.html:186
 #: __ROOT__/tool/item-calculator.html:125
 msgid "닫기"
 msgstr "Close"
@@ -1110,14 +1054,12 @@ msgstr "Artifact"
 msgid "계산중 오류가 발생했습니다"
 msgstr "Error occurred during calculation"
 
-#: __ROOT__/tool/stat_validator.php:11
-#: __ROOT__/tool/item-calculator.html:35
+#: __ROOT__/tool/stat_validator.php:11 __ROOT__/tool/item-calculator.html:35
 #: __ROOT__/contents/stage.html:368
 msgid "일본 서버"
 msgstr "JP Server"
 
-#: __ROOT__/tool/stat_validator.php:12
-#: __ROOT__/tool/item-calculator.html:36
+#: __ROOT__/tool/stat_validator.php:12 __ROOT__/tool/item-calculator.html:36
 #: __ROOT__/contents/stage.html:369
 msgid "글로벌 서버"
 msgstr "Global Server"
@@ -1392,8 +1334,7 @@ msgstr "Data Import/Save"
 msgid "계산"
 msgstr "Calculate"
 
-#: __ROOT__/contents/event.html:20
-#: __ROOT__/contents/event.html:117
+#: __ROOT__/contents/event.html:20 __ROOT__/contents/event.html:117
 msgid "이벤트"
 msgstr "Event"
 
@@ -1413,8 +1354,7 @@ msgstr "No limit"
 msgid "상점이 없습니다"
 msgstr "There's no shop"
 
-#: __ROOT__/contents/event.html:41
-#: __ROOT__/contents/stage.html:73
+#: __ROOT__/contents/event.html:41 __ROOT__/contents/stage.html:73
 msgid "입장"
 msgstr "Enter"
 
@@ -1458,92 +1398,73 @@ msgstr "Count"
 msgid "바로가기"
 msgstr "Shortcut"
 
-#: __ROOT__/contents/event.html:52
-#: __ROOT__/contents/stage.html:64
+#: __ROOT__/contents/event.html:52 __ROOT__/contents/stage.html:64
 msgid "임무 완료"
 msgstr "Mission Complete"
 
-#: __ROOT__/contents/event.html:53
-#: __ROOT__/contents/stage.html:65
+#: __ROOT__/contents/event.html:53 __ROOT__/contents/stage.html:65
 msgid "S랭크 {A}회 획득"
 msgstr "Acquire S rank {A} time(s)."
 
-#: __ROOT__/contents/event.html:54
-#: __ROOT__/contents/stage.html:66
+#: __ROOT__/contents/event.html:54 __ROOT__/contents/stage.html:66
 msgid "{A}턴 내 스테이지 클리어"
 msgstr "Clear stage within {A} turn(s)."
 
-#: __ROOT__/contents/event.html:55
-#: __ROOT__/contents/stage.html:67
+#: __ROOT__/contents/event.html:55 __ROOT__/contents/stage.html:67
 msgid "필요 재화 없음"
 msgstr "No entry items required"
 
-#: __ROOT__/contents/event.html:56
-#: __ROOT__/contents/stage.html:68
+#: __ROOT__/contents/event.html:56 __ROOT__/contents/stage.html:68
 msgid "{A} 사용"
 msgstr "{A} need"
 
-#: __ROOT__/contents/event.html:57
-#: __ROOT__/contents/stage.html:69
+#: __ROOT__/contents/event.html:57 __ROOT__/contents/stage.html:69
 msgid "소탕 시작"
 msgstr "Start Sweep"
 
-#: __ROOT__/contents/event.html:58
-#: __ROOT__/contents/stage.html:70
+#: __ROOT__/contents/event.html:58 __ROOT__/contents/stage.html:70
 msgid "소탕 불가"
 msgstr "Cannot Sweep"
 
-#: __ROOT__/contents/event.html:59
-#: __ROOT__/contents/stage.html:71
+#: __ROOT__/contents/event.html:59 __ROOT__/contents/stage.html:71
 msgid "초회"
 msgstr "1st Time"
 
-#: __ROOT__/contents/event.html:60
-#: __ROOT__/contents/stage.html:72
+#: __ROOT__/contents/event.html:60 __ROOT__/contents/stage.html:72
 msgid "레어"
 msgstr "Rare"
 
-#: __ROOT__/contents/event.html:142
-#: __ROOT__/contents/event.html:220
-#: __ROOT__/contents/stage.html:272
-#: __ROOT__/contents/stage.html:348
+#: __ROOT__/contents/event.html:142 __ROOT__/contents/event.html:220
+#: __ROOT__/contents/stage.html:272 __ROOT__/contents/stage.html:348
 msgid "적 정보"
 msgstr "Enemies"
 
-#: __ROOT__/contents/event.html:147
-#: __ROOT__/contents/stage.html:277
+#: __ROOT__/contents/event.html:147 __ROOT__/contents/stage.html:277
 msgid "추천"
 msgstr "Rec."
 
-#: __ROOT__/contents/event.html:158
-#: __ROOT__/contents/stage.html:288
+#: __ROOT__/contents/event.html:158 __ROOT__/contents/stage.html:288
 msgid "임무 목표(☆)"
 msgstr "Mission Objectives (☆)"
 
-#: __ROOT__/contents/event.html:174
-#: __ROOT__/contents/stage.html:304
+#: __ROOT__/contents/event.html:174 __ROOT__/contents/stage.html:304
 msgid "획득 가능 보상"
 msgstr "Rewards"
 
-#: __ROOT__/contents/event.html:183
-#: __ROOT__/contents/stage.html:313
+#: __ROOT__/contents/event.html:183 __ROOT__/contents/stage.html:313
 msgid "이 스테이지는 소탕을 사용할 수 없습니다."
 msgstr "Cannot sweep this stage."
 
-#: __ROOT__/contents/event.html:184
-#: __ROOT__/contents/event.html:193
-#: __ROOT__/contents/stage.html:314
-#: __ROOT__/contents/stage.html:323
+#: __ROOT__/contents/event.html:184 __ROOT__/contents/event.html:193
+#: __ROOT__/contents/stage.html:314 __ROOT__/contents/stage.html:323
 msgid "소탕"
 msgstr "Sweep"
 
-#: __ROOT__/contents/event.html:236
-#: __ROOT__/contents/event.html:246
+#: __ROOT__/contents/event.html:236 __ROOT__/contents/event.html:246
 msgid "일본서버"
 msgstr "JP"
 
-#: __ROOT__/contents/event.html:239
-#: __ROOT__/contents/event.html:243
+#: __ROOT__/contents/event.html:239 __ROOT__/contents/event.html:243
 msgid "글로벌서버"
 msgstr "Global"
 
@@ -1579,8 +1500,7 @@ msgstr "Shop"
 msgid "보너스 학생"
 msgstr "Bonus Recipients"
 
-#: __ROOT__/contents/event.html:396
-#: __ROOT__/contents/stage.html:377
+#: __ROOT__/contents/event.html:396 __ROOT__/contents/stage.html:377
 msgid "임무"
 msgstr "Mission"
 
@@ -1588,8 +1508,7 @@ msgstr "Mission"
 msgid "미션"
 msgstr "Tasks"
 
-#: __ROOT__/contents/stage.html:51
-#: __ROOT__/contents/stage.html:247
+#: __ROOT__/contents/stage.html:51 __ROOT__/contents/stage.html:247
 msgid "스테이지"
 msgstr "Stage"
 
