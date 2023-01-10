@@ -1,0 +1,1681 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-30 22:18+0900\n"
+"PO-Revision-Date: 2022-12-23 20:20+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: student-detail.html\n"
+
+#: __ROOT__/site-update.html:9
+#: __ROOT__/site-update.html:47
+#: __ROOT__/lib/html_snippet/footer.html:6
+msgid "사이트 업데이트"
+msgstr "サイトアップデート"
+
+#: __ROOT__/site-update.html:9
+#: __ROOT__/introduce.html:9
+#: __ROOT__/student-detail-idol.html:20
+#: __ROOT__/err/maintenance.html:9
+#: __ROOT__/err/ie.html:23
+#: __ROOT__/item.html:9
+#: __ROOT__/index.html:10
+#: __ROOT__/lib/html_snippet/navbar.html:71
+#: __ROOT__/student-detail-normal.html:454
+#: __ROOT__/furniture.html:9
+#: __ROOT__/flying-yuuka.html:10
+#: __ROOT__/whats-going-on.html:19
+#: __ROOT__/student.html:159
+#: __ROOT__/tool/item-calculator-result.html:78
+#: __ROOT__/tool/item-calculator.html:23
+#: __ROOT__/contents/event.html:20
+#: __ROOT__/contents/stage.html:51
+msgid "블루아카 유틸"
+msgstr "ブルアカユティル"
+
+#: __ROOT__/site-update.html:46
+#: __ROOT__/introduce.html:49
+#: __ROOT__/student-detail-idol.html:43
+#: __ROOT__/item.html:30
+#: __ROOT__/index.html:42
+#: __ROOT__/student-detail-normal.html:518
+#: __ROOT__/furniture.html:39
+#: __ROOT__/whats-going-on.html:65
+#: __ROOT__/student.html:176
+#: __ROOT__/table/favor.html:144
+#: __ROOT__/tool/item-calculator-result.html:152
+#: __ROOT__/tool/item-calculator.html:71
+#: __ROOT__/contents/event.html:114
+#: __ROOT__/contents/stage.html:235
+msgid "홈"
+msgstr "ホーム"
+
+#: __ROOT__/site-update.html:54
+msgid "사이트 업데이트 내역"
+msgstr "サイトアップデートの内訳"
+
+#: __ROOT__/site-update.html:59
+msgid "일본 서버 데이터: "
+msgstr "JPサーバーデータ: "
+
+#: __ROOT__/site-update.html:59
+#: __ROOT__/site-update.html:60
+msgid "클라이언트 버전: "
+msgstr "クライアント: "
+
+#: __ROOT__/site-update.html:59
+#: __ROOT__/site-update.html:60
+msgid "마지막 데이터 업데이트: "
+msgstr "最後のデータアップデート: "
+
+#: __ROOT__/site-update.html:60
+msgid "한국 서버 데이터: "
+msgstr "グローバルサーバーデータ: "
+
+#: __ROOT__/site-update.html:65
+#: __ROOT__/introduce.html:69
+msgid ""
+"ㆍ트렐로(상세 업데이트 로그 및 개발 상황): <a href=\"https://trello.com/b/"
+"z5IEHSQm\" target=\"_blank\">https://trello.com/b/z5IEHSQm</a>"
+msgstr ""
+"ㆍTrello(詳細アップデートログ及び開発状況): <a href=\"https://trello.com/b/"
+"z5IEHSQm\" target=\"_blank\">https://trello.com/b/z5IEHSQm</a>"
+
+#: __ROOT__/introduce.html:9
+#: __ROOT__/introduce.html:50
+#: __ROOT__/introduce.html:56
+#: __ROOT__/lib/html_snippet/footer.html:4
+msgid "소개 및 기타"
+msgstr "紹介・その他"
+
+#: __ROOT__/introduce.html:60
+msgid ""
+"게임 <span style=\"font-family: var(--ff-medium);\">블루 아카이브</span>의 데"
+"이터를 정리해둔 사이트입니다."
+msgstr ""
+"ゲーム <span style=\"font-family: title_medium;\">ブルーアーカイブ</span>の"
+"データをまとめておいたサイトです。"
+
+#: __ROOT__/introduce.html:64
+msgid ""
+"ㆍ학생명부의 글로벌 서버 데이터는 한국 서버 데이터입니다.<br>ㆍ준비되지 않은 "
+"일부 학생의 SD 및 헤일로 이미지는 표시되지 않을 수 있습니다.<br>ㆍ사이트 기"
+"본 언어는 한국어입니다.<br>ㆍ모든 페이지는 PC 화면에 최적화되어있습니다."
+msgstr ""
+"ㆍ学生名簿のグローバルサーバーデータは韓国サーバーデータです。<br>ㆍ準備され"
+"ていない一部の学生のSDおよびヘイロー画像が表示されないことがあります。<br>ㆍ"
+"サイトの基本言語は韓国語です。<br>ㆍ全てのページはデスクトップに最適化されて"
+"います。"
+
+#: __ROOT__/introduce.html:68
+msgid ""
+"ㆍ버그 제보: <a href=\"https://forms.gle/u9smgnppCUZWi1V37\" target=\"_blank"
+"\">https://forms.gle/u9smgnppCUZWi1V37</a><br>ㆍ기능 제안: <a href=\"https://"
+"forms.gle/f6uhN82aszgKjESj7\" target=\"_blank\">https://forms.gle/"
+"f6uhN82aszgKjESj7</a><br>"
+msgstr ""
+"ㆍバグの報告: <a href=\"https://forms.gle/u9smgnppCUZWi1V37\" target=\"_blank"
+"\">https://forms.gle/u9smgnppCUZWi1V37</a><br>ㆍ機能提案: <a href=\"https://"
+"forms.gle/f6uhN82aszgKjESj7\" target=\"_blank\">https://forms.gle/"
+"f6uhN82aszgKjESj7</a>"
+
+#: __ROOT__/introduce.html:74
+msgid "고지 사항"
+msgstr "告知事項"
+
+#: __ROOT__/introduce.html:78
+msgid ""
+"본 웹 사이트는 <a href=\"https://www.nexongames.co.kr/\">NEXON Games Co., "
+"Ltd.</a>, <a href=\"https://www.yostar.co.jp/\">Yostar</a> 및 <a href="
+"\"https://www.nexon.com/Home/Game\">NEXON KOREA Corp.</a>과 관계가 없는 개인"
+"이 만든 <b>비공식</b> 팬 사이트이며, 수익을 창출하지 않습니다."
+msgstr ""
+"当ウェブサイトは<a href=\"https://www.nexongames.co.kr/\">NEXON Games Co., "
+"Ltd.</a>, <a href=\"https://www.yostar.co.jp/\">Yostar</a>及び<a href="
+"\"https://www.nexon.com/Home/Game\">NEXON KOREA Corp.</a>と関係のない個人が"
+"作った<b>非公式</b>のファンサイトであり、収益を創出していません。"
+
+#: __ROOT__/introduce.html:83
+msgid "자료 출처"
+msgstr "資料出典"
+
+#: __ROOT__/introduce.html:87
+msgid ""
+"ㆍ몰?루 이미지: <a href=\"https://www.pixiv.net/artworks/89423246\">https://"
+"www.pixiv.net/artworks/89423246</a>"
+msgstr ""
+"ㆍ몰?루 画像: <a href=\"https://www.pixiv.net/artworks/89423246\">https://"
+"www.pixiv.net/artworks/89423246</a>"
+
+#: __ROOT__/introduce.html:90
+msgid ""
+"ㆍ각종 인게임 에셋 및 게임 데이터: 블루 아카이브(<a href=\"https://www."
+"yostar.co.jp/\">Yostar Inc.</a>, <a href=\"https://www.nexon.com/Home/Game"
+"\">NEXON KOREA Corp</a>, <a href=\"https://www.natgames.co.kr/kr/index.php"
+"\">NAT GAMES Corp</a>)"
+msgstr ""
+"ㆍ各種インゲームアセット及びゲームデータ: ブルーアーカイブ(<a href=\"https://"
+"www.nexongames.co.kr/\">NEXON Games Co., Ltd.</a>, <a href=\"https://www."
+"yostar.co.jp/\">Yostar</a>及び<a href=\"https://www.nexon.com/Home/Game"
+"\">NEXON KOREA Corp.</a>)"
+
+#: __ROOT__/introduce.html:93
+msgid ""
+"ㆍ헤일로 이미지: <a href=\"https://bluearchive.wikiru.jp/?HALO"
+"%E4%B8%80%E8%A6%A7\">https://bluearchive.wikiru.jp/?HALO%E4%B8%80%E8%A6%A7</"
+"a>"
+msgstr ""
+"ㆍヘイロー画像: <a href=\"https://bluearchive.wikiru.jp/?HALO"
+"%E4%B8%80%E8%A6%A7\">https://bluearchive.wikiru.jp/?HALO%E4%B8%80%E8%A6%A7</"
+"a>"
+
+#: __ROOT__/introduce.html:96
+msgid "ㆍ메모리얼 관련 리소스: 직접 녹화, 유튜브, 커뮤니티 등"
+msgstr "ㆍメモリアル関連リソース: 直接録画、YouTube、コミュニティなど"
+
+#: __ROOT__/introduce.html:99
+msgid ""
+"ㆍ웹사이트에 사용된 폰트: <a href=\"https://www.gg.go.kr/contents/contents."
+"do?ciIdx=679&menuId=2457\">경기천년제목</a>, <a href=\"https://fonts.google."
+"com/noto/specimen/Noto+Sans+JP\">Noto Sans Japanese</a>"
+msgstr ""
+"ㆍウェブサイトに使われたフォント: <a href=\"https://www.gg.go.kr/contents/"
+"contents.do?ciIdx=679&amp;menuId=2457\">경기천년제목(GyeonggiTitleM)</a>, <a "
+"href=\"https://fonts.google.com/noto/specimen/Noto+Sans+JP\">Noto Sans "
+"Japanese</a>"
+
+#: __ROOT__/introduce.html:104
+msgid "연락처"
+msgstr "連絡先"
+
+#: __ROOT__/introduce.html:108
+#: __ROOT__/student-detail-normal.html:1539
+msgid "표시하기"
+msgstr "表示する"
+
+#: __ROOT__/student-detail-idol.html:44
+#: __ROOT__/index.html:55
+#: __ROOT__/student-detail-normal.html:519
+#: __ROOT__/student.html:159
+#: __ROOT__/student.html:177
+msgid "학생 명부"
+msgstr "学生名簿"
+
+#: __ROOT__/student-detail-idol.html:112
+#: __ROOT__/student-detail-normal.html:795
+msgid "소개"
+msgstr "基本情報"
+
+#: __ROOT__/student-detail-idol.html:130
+#: __ROOT__/student-detail-normal.html:829
+msgid "정보"
+msgstr "情報"
+
+#: __ROOT__/student-detail-idol.html:135
+#: __ROOT__/student-detail-normal.html:834
+#: __ROOT__/student.html:304
+msgid "동아리"
+msgstr "部活"
+
+#: __ROOT__/student-detail-idol.html:139
+#: __ROOT__/student-detail-normal.html:838
+msgid "나이"
+msgstr "年齢"
+
+#: __ROOT__/student-detail-idol.html:143
+#: __ROOT__/student-detail-normal.html:842
+msgid "키"
+msgstr "身長"
+
+#: __ROOT__/student-detail-idol.html:147
+#: __ROOT__/student-detail-normal.html:846
+msgid "생일"
+msgstr "誕生日"
+
+#: __ROOT__/student-detail-idol.html:151
+#: __ROOT__/student-detail-normal.html:850
+msgid "취미"
+msgstr "趣味"
+
+#: __ROOT__/student-detail-idol.html:155
+#: __ROOT__/student-detail-normal.html:854
+msgid "성우"
+msgstr "CV"
+
+#: __ROOT__/student-detail-idol.html:159
+#: __ROOT__/student-detail-normal.html:589
+#: __ROOT__/student-detail-normal.html:858
+msgid "일러스트"
+msgstr "イラスト"
+
+#: __ROOT__/err/maintenance.html:21
+msgid "서버 작업중"
+msgstr "サーバーメンテナンス中"
+
+#: __ROOT__/err/maintenance.html:27
+msgid "서버 작업중입니다."
+msgstr "サーバーメンテナンス中です。"
+
+#: __ROOT__/err/maintenance.html:28
+msgid "데이터 업데이트중입니다."
+msgstr "データアップデート中です。"
+
+#: __ROOT__/err/403.html:9
+msgid "블루아카 유틸 - 403 FORBIDDEN"
+msgstr "ブルアカユティル - 403 FORBIDDEN"
+
+#: __ROOT__/err/403.html:25
+msgid "당신의 접근 권한,"
+msgstr "アクセス権限がありません"
+
+#: __ROOT__/err/403.html:26
+#: __ROOT__/err/404.html:26
+msgid "몰?루"
+msgstr " "
+
+#: __ROOT__/err/500.html:9
+msgid "블루아카 유틸 - 500 Internal Server Error"
+msgstr "ブルアカユティル - 500 Internal Server Error"
+
+#: __ROOT__/err/500.html:25
+msgid "서버 내부 오류"
+msgstr "内部サーバーエラー"
+
+#: __ROOT__/err/500.html:26
+msgid "알 수 없는 이유로 요청을 처리하지 못했습니다."
+msgstr "分からない理由で要請を処理できませんでした。"
+
+#: __ROOT__/err/ie.html:6
+msgid "블루아카 유틸 - IE NOT SUPPORT"
+msgstr "ブルアカユティル - IE NOT SUPPORT"
+
+#: __ROOT__/err/ie.html:26
+msgid "인터넷 익스플로러 미지원"
+msgstr "インターネットエクスプローラー未対応"
+
+#: __ROOT__/err/ie.html:30
+msgid "인터넷 익스플로러는"
+msgstr "インターネットエクスプローラには対応しておりません"
+
+#: __ROOT__/err/ie.html:31
+msgid "지원하지 않습니다!"
+msgstr " "
+
+#: __ROOT__/err/404.html:9
+msgid "블루아카 유틸 - 404 NOT FOUND"
+msgstr "ブルアカユティル - 404 NOT FOUND"
+
+#: __ROOT__/err/404.html:25
+msgid "당신이 찾는 페이지,"
+msgstr "ページが見つかりません"
+
+#: __ROOT__/item.html:9
+#: __ROOT__/item.html:31
+#: __ROOT__/index.html:76
+msgid "아이템 도감"
+msgstr "アイテム図鑑"
+
+#: __ROOT__/item.html:20
+#: __ROOT__/furniture.html:22
+#: __ROOT__/table/favor.html:135
+#: __ROOT__/table/favor.html:174
+msgid "전체"
+msgstr "すべて"
+
+#: __ROOT__/item.html:45
+msgid "아이템을 선택해주세요"
+msgstr "アイテムをお選びください"
+
+#: __ROOT__/item.html:54
+#: __ROOT__/furniture.html:84
+#: __ROOT__/table/favor.html:158
+#: __ROOT__/tool/item-calculator.html:140
+#: __ROOT__/contents/stage.html:355
+msgid "서버"
+msgstr "サーバー"
+
+#: __ROOT__/item.html:57
+#: __ROOT__/lib/html_snippet/navbar.html:105
+#: __ROOT__/furniture.html:87
+#: __ROOT__/table/favor.html:161
+#: __ROOT__/tool/item-calculator.html:142
+msgid "일본"
+msgstr "JP"
+
+#: __ROOT__/item.html:58
+#: __ROOT__/lib/html_snippet/navbar.html:106
+#: __ROOT__/furniture.html:88
+#: __ROOT__/table/favor.html:162
+#: __ROOT__/tool/item-calculator.html:143
+msgid "글로벌"
+msgstr "グローバル"
+
+#: __ROOT__/item.html:62
+msgid "아이템 유형"
+msgstr "アイテムカテゴリー"
+
+#: __ROOT__/item.html:65
+msgid "경험치 아이템"
+msgstr "経験値アイテム"
+
+#: __ROOT__/item.html:66
+#: __ROOT__/table/favor.html:134
+#: __ROOT__/table/favor.html:146
+msgid "선물"
+msgstr "贈り物"
+
+#: __ROOT__/item.html:67
+msgid "소모품"
+msgstr "消耗品"
+
+#: __ROOT__/item.html:68
+msgid "수집품"
+msgstr "コレクション"
+
+#: __ROOT__/item.html:69
+msgid "엘레프"
+msgstr "神名文字"
+
+#: __ROOT__/item.html:70
+msgid "일반 아이템"
+msgstr "アイテム"
+
+#: __ROOT__/item.html:71
+msgid "코인"
+msgstr "コイン"
+
+#: __ROOT__/item.html:75
+#: __ROOT__/furniture.html:24
+#: __ROOT__/furniture.html:99
+msgid "분류"
+msgstr "カテゴリー"
+
+#: __ROOT__/item.html:82
+msgid "분류를 선택해주세요."
+msgstr "カテゴリーを選択してください。"
+
+#: __ROOT__/index.html:48
+msgid "명부"
+msgstr "名簿"
+
+#: __ROOT__/index.html:58
+msgid "학생 목록과 상세 정보를 확인할 수 있습니다"
+msgstr "学生リストと詳細情報を確認することができます"
+
+#: __ROOT__/index.html:69
+msgid "도감"
+msgstr "図鑑"
+
+#: __ROOT__/index.html:79
+msgid "각종 아이템들의 목록입니다"
+msgstr "様々なアイテムのリストです"
+
+#: __ROOT__/index.html:87
+#: __ROOT__/furniture.html:9
+#: __ROOT__/furniture.html:40
+msgid "가구 도감"
+msgstr "家具図鑑"
+
+#: __ROOT__/index.html:90
+msgid "테마별 가구 목록입니다"
+msgstr "シリーズ別の家具一覧です"
+
+#: __ROOT__/index.html:100
+#: __ROOT__/tool/item-calculator-result.html:153
+#: __ROOT__/tool/item-calculator.html:72
+msgid "도구"
+msgstr "ツール"
+
+#: __ROOT__/index.html:107
+#: __ROOT__/tool/item-calculator-result.html:78
+#: __ROOT__/tool/item-calculator-result.html:154
+#: __ROOT__/tool/item-calculator.html:23
+#: __ROOT__/tool/item-calculator.html:73
+msgid "재화 계산기"
+msgstr "財貨計算機"
+
+#: __ROOT__/index.html:110
+msgid "레벨/장비/스킬작 재화 계산기"
+msgstr "レベル/装備/スキルアップ財貨計算機"
+
+#: __ROOT__/index.html:119
+#: __ROOT__/flying-yuuka.html:10
+msgid "플라잉 유우카"
+msgstr "フライングユウカ"
+
+#: __ROOT__/index.html:122
+msgid "플라잉 유우카 화면보호기"
+msgstr "フライングユウカスクリーンセーバー"
+
+#: __ROOT__/index.html:132
+#: __ROOT__/table/favor.html:145
+msgid "테이블"
+msgstr "テーブル"
+
+#: __ROOT__/index.html:140
+msgid "학생별 선호 선물"
+msgstr "学生別選好贈り物"
+
+#: __ROOT__/index.html:143
+msgid "학생별<=>선물별 선호도 데이터 테이블"
+msgstr "学生別<=>贈り物別選好度データテーブル"
+
+#: __ROOT__/index.html:153
+#: __ROOT__/contents/event.html:115
+#: __ROOT__/contents/stage.html:236
+msgid "콘텐츠"
+msgstr "コンテンツ"
+
+#: __ROOT__/index.html:161
+msgid "이벤트 정보"
+msgstr "イベント情報"
+
+#: __ROOT__/index.html:164
+msgid "서버별 전체 이벤트 정보 보기"
+msgstr "サーバー別の全イベント情報を表示"
+
+#: __ROOT__/index.html:172
+#: __ROOT__/contents/event.html:125
+#: __ROOT__/contents/stage.html:246
+msgid "임무 정보"
+msgstr "任務情報"
+
+#: __ROOT__/index.html:175
+msgid "임무/현상수배/특별의뢰/교류회 정보 보기"
+msgstr "お仕事/指名手配/特別依頼/学園交流会の情報を見る"
+
+#: __ROOT__/lib/html_snippet/navbar.html:99
+msgid "기본 서버"
+msgstr "基本サーバー"
+
+#: __ROOT__/lib/html_snippet/navbar.html:102
+msgid "서버선택"
+msgstr "サーバー選択"
+
+#: __ROOT__/lib/html_snippet/navbar.html:111
+msgid "언어 설정"
+msgstr "言語設定"
+
+#: __ROOT__/lib/html_snippet/navbar.html:114
+msgid "언어선택"
+msgstr "言語選択"
+
+#: __ROOT__/student-detail-normal.html:114
+msgid "[성장 재료 열기]"
+msgstr "[成長素材を開く]"
+
+#: __ROOT__/student-detail-normal.html:115
+msgid "[성장 재료 닫기]"
+msgstr "[成長素材を閉じる]"
+
+#: __ROOT__/student-detail-normal.html:116
+msgid "[성장 재료 합계 열기]"
+msgstr "[成長材料合計を開く]"
+
+#: __ROOT__/student-detail-normal.html:117
+msgid "[성장 재료 합계 닫기]"
+msgstr "[成長材料合計を閉じる]"
+
+#: __ROOT__/student-detail-normal.html:118
+msgid "코스트"
+msgstr "コスト"
+
+#: __ROOT__/student-detail-normal.html:119
+#: __ROOT__/student-detail-normal.html:1418
+msgid "스킬 성장 재료"
+msgstr "スキル成長素材"
+
+#: __ROOT__/student-detail-normal.html:120
+msgid "소모 재료 합계"
+msgstr "成長素材合計"
+
+#: __ROOT__/student-detail-normal.html:489
+#: __ROOT__/student-detail-normal.html:1568
+#: __ROOT__/student-detail-normal.html:1711
+#: __ROOT__/student-detail-normal.html:1740
+#: __ROOT__/student-detail-normal.html:1816
+msgid "[펼치기]"
+msgstr "[開く]"
+
+#: __ROOT__/student-detail-normal.html:490
+msgid "[접기]"
+msgstr "[閉じる]"
+
+#: __ROOT__/student-detail-normal.html:529
+msgid "일본 서버에만 존재하는 캐릭터입니다."
+msgstr "JPサーバー上にだけ存在するキャラクターです。"
+
+#: __ROOT__/student-detail-normal.html:530
+msgid "일부 정보는 일본어로 표시됩니다."
+msgstr "一部情報は日本語で表示されます。"
+
+#: __ROOT__/student-detail-normal.html:546
+msgid "현재 일본 서버 데이터를 보고 있습니다."
+msgstr "現在JPサーバーのデータを見ています。"
+
+#: __ROOT__/student-detail-normal.html:547
+msgid "[글로벌 서버 데이터로 보기]"
+msgstr "[グローバルサーバーのデータで見る]"
+
+#: __ROOT__/student-detail-normal.html:562
+msgid "현재 글로벌 서버 데이터를 보고 있습니다."
+msgstr "現在グローバルサーバーデータを見ています。"
+
+#: __ROOT__/student-detail-normal.html:563
+msgid "[일본 서버 데이터로 보기]"
+msgstr "[日本のサーバーデータで見る]"
+
+#: __ROOT__/student-detail-normal.html:593
+msgid "전신 일러스트 보기"
+msgstr "全身イラストを見る"
+
+#: __ROOT__/student-detail-normal.html:596
+msgid "SD"
+msgstr "ちびキャラ"
+
+#: __ROOT__/student-detail-normal.html:623
+msgid "헤일로"
+msgstr "ヘイロー"
+
+#: __ROOT__/student-detail-normal.html:682
+msgid "스킨 목록"
+msgstr "着替え一覧"
+
+#: __ROOT__/student-detail-normal.html:758
+#: __ROOT__/api/tooltip.php:159
+msgid "기본"
+msgstr "基本"
+
+#: __ROOT__/student-detail-normal.html:759
+#: __ROOT__/api/tooltip.php:159
+msgid "최대"
+msgstr "最大"
+
+#: __ROOT__/student-detail-normal.html:811
+msgid "모모톡 상태 메시지"
+msgstr "モモトークステータスメッセージ"
+
+#: __ROOT__/student-detail-normal.html:863
+msgid "디자인"
+msgstr "デザイン"
+
+#: __ROOT__/student-detail-normal.html:878
+msgid "기본 능력치"
+msgstr "ステータス"
+
+#: __ROOT__/student-detail-normal.html:883
+#: __ROOT__/student-detail-normal.html:1204
+msgid "체력"
+msgstr "HP"
+
+#: __ROOT__/student-detail-normal.html:885
+#: __ROOT__/student-detail-normal.html:1203
+msgid "공격력"
+msgstr "攻撃力"
+
+#: __ROOT__/student-detail-normal.html:889
+msgid "방어력"
+msgstr "防御力"
+
+#: __ROOT__/student-detail-normal.html:891
+#: __ROOT__/student-detail-normal.html:1205
+msgid "치유력"
+msgstr "治癒力"
+
+#: __ROOT__/student-detail-normal.html:895
+msgid "명중 수치"
+msgstr "命中値"
+
+#: __ROOT__/student-detail-normal.html:897
+msgid "회피 수치"
+msgstr "回避値"
+
+#: __ROOT__/student-detail-normal.html:901
+msgid "치명 수치"
+msgstr "会心値"
+
+#: __ROOT__/student-detail-normal.html:903
+msgid "치명 대미지"
+msgstr "会心ダメージ"
+
+#: __ROOT__/student-detail-normal.html:907
+msgid "안정 수치"
+msgstr "安定値"
+
+#: __ROOT__/student-detail-normal.html:909
+msgid "일반공격 사거리"
+msgstr "射程距離"
+
+#: __ROOT__/student-detail-normal.html:913
+msgid "군중제어 강화력"
+msgstr "CC強化力"
+
+#: __ROOT__/student-detail-normal.html:915
+msgid "군중제어 저항력"
+msgstr "CC抵抗力"
+
+#: __ROOT__/student-detail-normal.html:919
+msgid "코스트 회복력"
+msgstr "コスト回復力"
+
+#: __ROOT__/student-detail-normal.html:924
+msgid "* 1성 외의 캐릭터의 체력, 공격력, 치유력은 정확하지 않습니다."
+msgstr "* 星1以外のキャラクターの体力、攻撃力、治癒力は正確ではありません。"
+
+#: __ROOT__/student-detail-normal.html:925
+msgid "* 1레벨, 기본 성급 기준입니다."
+msgstr "* レベル1、基本星基準です。"
+
+#: __ROOT__/student-detail-normal.html:938
+msgid " 공격타입"
+msgstr " 攻撃タイプ"
+
+#: __ROOT__/student-detail-normal.html:950
+msgid " 방어타입"
+msgstr " 防御タイプ"
+
+#: __ROOT__/student-detail-normal.html:974
+msgid "지형 상성"
+msgstr "地形別戦闘力"
+
+#: __ROOT__/student-detail-normal.html:1013
+msgid "장착 장비"
+msgstr "装備"
+
+#: __ROOT__/student-detail-normal.html:1090
+msgid "주요 선물 목록"
+msgstr "主な贈り物リスト"
+
+#: __ROOT__/student-detail-normal.html:1109
+#: __ROOT__/student-detail-normal.html:1140
+msgid "고유 무기"
+msgstr "固有武器"
+
+#: __ROOT__/student-detail-normal.html:1169
+#: __ROOT__/student-detail-normal.html:1202
+msgid "레벨"
+msgstr "レベル"
+
+#: __ROOT__/student-detail-normal.html:1170
+msgid "한계 해방"
+msgstr "限界突破"
+
+#: __ROOT__/student-detail-normal.html:1197
+msgid "스테이터스 정보"
+msgstr "固有武器ステータス"
+
+#: __ROOT__/student-detail-normal.html:1231
+#: __ROOT__/student-detail-normal.html:1485
+msgid "강화 스킬"
+msgstr "ノーマルスキル"
+
+#: __ROOT__/student-detail-normal.html:1289
+#: __ROOT__/student-detail-normal.html:1315
+#: __ROOT__/student-detail-normal.html:1332
+msgid "애용품"
+msgstr "愛用品"
+
+#: __ROOT__/student-detail-normal.html:1305
+msgid "애용품은 현재 일본 서버에만 있습니다"
+msgstr "愛用品は現在JPサーバーにのみ存在します"
+
+#: __ROOT__/student-detail-normal.html:1320
+msgid "아직 애용품이 없는 학생입니다."
+msgstr "まだ愛用品のない学生です。"
+
+#: __ROOT__/student-detail-normal.html:1337
+#: __ROOT__/tool/equipment_table_generator.php:34
+msgid "티어"
+msgstr "Tier"
+
+#: __ROOT__/student-detail-normal.html:1338
+msgid "상세"
+msgstr "詳細"
+
+#: __ROOT__/student-detail-normal.html:1351
+#: __ROOT__/student-detail-normal.html:1379
+msgid "인연랭크"
+msgstr "絆ランク"
+
+#: __ROOT__/student-detail-normal.html:1383
+#: __ROOT__/tool/each_table_generator.php:62
+#: __ROOT__/tool/item-calculator-result.html:204
+msgid "크레딧"
+msgstr "クレジット"
+
+#: __ROOT__/student-detail-normal.html:1403
+#: __ROOT__/student-detail-normal.html:1474
+msgid "기본 스킬"
+msgstr "パッシブスキル"
+
+#: __ROOT__/student-detail-normal.html:1465
+msgid "EX 스킬"
+msgstr "EXスキル"
+
+#: __ROOT__/student-detail-normal.html:1494
+msgid "서브 스킬"
+msgstr "サブスキル"
+
+#: __ROOT__/student-detail-normal.html:1509
+msgid "메모리얼 로비"
+msgstr "メモリアルロビー"
+
+#: __ROOT__/student-detail-normal.html:1520
+msgid "영상 보기"
+msgstr "画像を見る"
+
+#: __ROOT__/student-detail-normal.html:1526
+msgid "고해상도 이미지 보기"
+msgstr "画像を見る高解像度画像を見る"
+
+#: __ROOT__/student-detail-normal.html:1536
+msgid "메모리얼 영상을 가져오지 못했습니다."
+msgstr "メモリアル ビデオを取得できませんでした。"
+
+#: __ROOT__/student-detail-normal.html:1538
+msgid "이 컨텐츠는 일본 서버의 컨텐츠입니다. 표시하시겠습니까?"
+msgstr "こちらのコンテンツは日本のサーバーのコンテンツです。 表示しますか？"
+
+#: __ROOT__/student-detail-normal.html:1553
+msgid "해금 인연 랭크"
+msgstr "解放絆ランク"
+
+#: __ROOT__/student-detail-normal.html:1563
+msgid "인연 랭크 보너스"
+msgstr "絆ランクボーナス"
+
+#: __ROOT__/student-detail-normal.html:1577
+msgid "랭크"
+msgstr "絆ランクボーナス"
+
+#: __ROOT__/student-detail-normal.html:1578
+msgid "추가"
+msgstr "追加"
+
+#: __ROOT__/student-detail-normal.html:1579
+msgid "누적"
+msgstr "合計"
+
+#: __ROOT__/student-detail-normal.html:1705
+msgid "대사"
+msgstr "ボイス"
+
+#: __ROOT__/student-detail-normal.html:1735
+msgid "기타 대사"
+msgstr "その他"
+
+#: __ROOT__/api/category.php:8
+#: __ROOT__/api/furniture.php:7
+#: __ROOT__/api/furniture-group.php:7
+#: __ROOT__/api/student-filter.php:9
+msgid "파라미터가 없습니다."
+msgstr "パラメータがありません。"
+
+#: __ROOT__/api/category.php:22
+msgid "카테고리가 지정되지 않았습니다."
+msgstr "カテゴリが指定されていません。"
+
+#: __ROOT__/api/category.php:47
+msgid "요청을 처리하지 못했습니다."
+msgstr "リクエストを処理できませんでした。"
+
+#: __ROOT__/api/category.php:53
+msgid "목록을 가져오지 못했습니다."
+msgstr "リストを取得できませんでした。"
+
+#: __ROOT__/api/item.php:11
+#: __ROOT__/api/table/favor-table.php:9
+msgid "파라미터가 부족합니다."
+msgstr "パラメータが不足しています。"
+
+#: __ROOT__/api/furniture.php:21
+msgid "DB 접속 에러."
+msgstr "DB接続エラー。"
+
+#: __ROOT__/api/student-filter.php:18
+msgid "검색 조건이 잘못되었습니다."
+msgstr "検索条件が無効です。"
+
+#: __ROOT__/api/student-filter.php:27
+msgid "필터가 비어있습니다."
+msgstr "フィルターが空いています。"
+
+#: __ROOT__/api/student-filter.php:30
+msgid "언어가 잘못되었습니다."
+msgstr "言語が間違っています。"
+
+#: __ROOT__/api/contents/stage-detail.php:180
+#: __ROOT__/api/contents/event-stage.php:129
+msgid "폭발"
+msgstr "爆発"
+
+#: __ROOT__/api/contents/stage-detail.php:181
+#: __ROOT__/api/contents/event-stage.php:130
+msgid "관통"
+msgstr "貫通"
+
+#: __ROOT__/api/contents/stage-detail.php:182
+#: __ROOT__/api/contents/event-stage.php:131
+msgid "신비"
+msgstr "神秘装備"
+
+#: __ROOT__/api/contents/stage-detail.php:183
+#: __ROOT__/api/contents/event-stage.php:132
+msgid "일반"
+msgstr "ノーマル"
+
+#: __ROOT__/api/contents/stage-detail.php:192
+#: __ROOT__/api/contents/event-stage.php:141
+msgid "경장갑"
+msgstr "軽装備"
+
+#: __ROOT__/api/contents/stage-detail.php:193
+#: __ROOT__/api/contents/event-stage.php:142
+msgid "중장갑"
+msgstr "重装甲"
+
+#: __ROOT__/api/contents/stage-detail.php:194
+#: __ROOT__/api/contents/event-stage.php:143
+msgid "특수장갑"
+msgstr "特殊装甲"
+
+#: __ROOT__/furniture.html:23
+#: __ROOT__/furniture.html:92
+msgid "테마"
+msgstr "シリーズ"
+
+#: __ROOT__/furniture.html:25
+#: __ROOT__/furniture.html:108
+msgid "테마를 선택해주세요."
+msgstr "シリーズを選択してください。"
+
+#: __ROOT__/furniture.html:26
+msgid "상호작용: "
+msgstr "家具ﾓｰｼｮﾝ: "
+
+#: __ROOT__/furniture.html:54
+msgid "가구를 선택해주세요"
+msgstr "家具を選択してください"
+
+#: __ROOT__/furniture.html:57
+msgid "쾌적도: "
+msgstr "快適度: "
+
+#: __ROOT__/furniture.html:65
+msgid "테마 이름"
+msgstr "シリーズ名"
+
+#: __ROOT__/furniture.html:67
+msgid "테마 설명"
+msgstr "シリーズ説明"
+
+#: __ROOT__/furniture.html:70
+msgid "개수"
+msgstr "個数"
+
+#: __ROOT__/furniture.html:71
+msgid "보너스"
+msgstr "ボーナス"
+
+#: __ROOT__/flying-yuuka.html:71
+msgid "유우카 출현 빈도(0~100): "
+msgstr "ユウカ頻度(0~100): "
+
+#: __ROOT__/flying-yuuka.html:74
+msgid "연기 빈도(0~100): "
+msgstr "煙の頻度(0~100): "
+
+#: __ROOT__/whats-going-on.html:66
+msgid "상황 정리"
+msgstr "状況整理"
+
+#: __ROOT__/student.html:58
+msgid "스트라이커"
+msgstr "ストライカー"
+
+#: __ROOT__/student.html:60
+msgid "스페셜"
+msgstr "スペシャル"
+
+#: __ROOT__/student.html:92
+msgid "장난스런☆스트레이트"
+msgstr "イタズラ☆ストレート"
+
+#: __ROOT__/student.html:180
+msgid "학생 목록"
+msgstr "学生名簿"
+
+#: __ROOT__/student.html:184
+msgid "학교 바로가기"
+msgstr "学校目次"
+
+#: __ROOT__/student.html:206
+msgid "필터"
+msgstr "フィルター"
+
+#: __ROOT__/student.html:208
+msgid "[필터 열기]"
+msgstr "[フィルターを開く]"
+
+#: __ROOT__/student.html:212
+msgid "모두 해제"
+msgstr "すべて解除"
+
+#: __ROOT__/student.html:213
+msgid "검색"
+msgstr "検索"
+
+#: __ROOT__/student.html:217
+msgid "검색 조건"
+msgstr "検索条件"
+
+#: __ROOT__/student.html:224
+msgid "학교"
+msgstr "学園"
+
+#: __ROOT__/student.html:232
+msgid "공격 타입"
+msgstr "攻撃タイプ"
+
+#: __ROOT__/student.html:240
+msgid "방어 타입"
+msgstr "防御タイプ"
+
+#: __ROOT__/student.html:248
+msgid "역할"
+msgstr "役割"
+
+#: __ROOT__/student.html:256
+msgid "포지션"
+msgstr "ポジション"
+
+#: __ROOT__/student.html:264
+msgid "시가전 적성"
+msgstr "市街地戦"
+
+#: __ROOT__/student.html:272
+msgid "야전 적성"
+msgstr "屋外戦"
+
+#: __ROOT__/student.html:280
+msgid "실내 적성"
+msgstr "屋内戦"
+
+#: __ROOT__/student.html:288
+msgid "별"
+msgstr "レアリティ"
+
+#: __ROOT__/student.html:296
+msgid "스킨"
+msgstr "着替え"
+
+#: __ROOT__/student.html:318
+msgid "* <i>기울어진 이름</i>은 일본 서버에만 있는 캐릭터"
+msgstr "* <i>傾いた名前</i>は日本のサーバーだけにあるキャラクター"
+
+#: __ROOT__/student.html:407
+msgid "알 수 없는 오류로 인해 학생 목록 페이지로 돌아왔습니다."
+msgstr "不明なエラーにより、学生リストページに戻ってきました。"
+
+#: __ROOT__/student.html:409
+msgid "학생을 찾을 수 없어 학생 목록 페이지로 돌아왔습니다."
+msgstr "学生が見つかりませんので、学生一覧ページに戻ってきました。"
+
+#: __ROOT__/table/favor.html:10
+msgid "블루아카 유틸 - 선물 데이터"
+msgstr "ブルアカユティル - 贈り物テーブル"
+
+#: __ROOT__/table/favor.html:132
+msgid "드롭다운에서 조건을 선택해주세요"
+msgstr "フィルターを選択してください"
+
+#: __ROOT__/table/favor.html:133
+msgid "학생"
+msgstr "学生"
+
+#: __ROOT__/table/favor.html:136
+msgid "(전체)"
+msgstr "(みんな)"
+
+#: __ROOT__/table/favor.html:152
+msgid ""
+"모든 선물에 대해서 학생들별로 선물들의 선호도를 보거나 선물별로 선호하는 학생"
+"을 볼 수 있습니다.<br>아이템을 클릭하여 상세 정보를 보거나 학생을 클릭하여 상"
+"세 정보 페이지로 이동할 수 있습니다."
+msgstr ""
+"すべての贈り物について、学生別に贈り物の選好度を見たり、贈り物別に選好する学"
+"生を見ることができます。<br>アイテムをクリックして詳細情報を見たり、学生をク"
+"リックして詳細情報ページに移動できます。"
+
+#: __ROOT__/table/favor.html:166
+msgid "표시 기준"
+msgstr "表示基準"
+
+#: __ROOT__/table/favor.html:169
+msgid "학생별"
+msgstr "学生基準"
+
+#: __ROOT__/table/favor.html:170
+msgid "선물별"
+msgstr "贈り物基準"
+
+#: __ROOT__/table/favor.html:199
+#: __ROOT__/tool/item-calculator-result.html:186
+#: __ROOT__/tool/item-calculator.html:125
+msgid "닫기"
+msgstr "閉じる"
+
+#: __ROOT__/tool/skill_table_generator.php:35
+#: __ROOT__/tool/skill_table_generator.php:69
+msgid "스킬"
+msgstr "スキル"
+
+#: __ROOT__/tool/skill_table_generator.php:36
+#: __ROOT__/tool/skill_table_generator.php:70
+msgid "BD"
+msgstr "BD"
+
+#: __ROOT__/tool/skill_table_generator.php:71
+#: __ROOT__/tool/skill_table_generator.php:122
+#: __ROOT__/tool/skill_table_generator.php:165
+#: __ROOT__/tool/equipment_table_generator.php:62
+msgid "계산할 내용이 없습니다"
+msgstr "計算する内容がありません"
+
+#: __ROOT__/tool/skill_table_generator.php:88
+#: __ROOT__/tool/skill_table_generator.php:121
+msgid "기술노트"
+msgstr "技術ノート"
+
+#: __ROOT__/tool/skill_table_generator.php:132
+#: __ROOT__/tool/skill_table_generator.php:164
+msgid "오파츠"
+msgstr "オーパーツ"
+
+#: __ROOT__/tool/calculator.php:369
+msgid "계산중 오류가 발생했습니다"
+msgstr "計算中にエラーが発生しました"
+
+#: __ROOT__/tool/stat_validator.php:11
+#: __ROOT__/tool/item-calculator.html:35
+#: __ROOT__/contents/stage.html:358
+msgid "일본 서버"
+msgstr "JP​サーバー"
+
+#: __ROOT__/tool/stat_validator.php:12
+#: __ROOT__/tool/item-calculator.html:36
+#: __ROOT__/contents/stage.html:359
+msgid "글로벌 서버"
+msgstr "グローバル​サーバー"
+
+#: __ROOT__/tool/stat_validator.php:128
+msgid "스탯은 숫자만 가능합니다."
+msgstr "ステータスは数字のみ可能です。"
+
+#: __ROOT__/tool/stat_validator.php:133
+msgid "서버오류: 최대 레벨을 가져오지 못했습니다"
+msgstr "サーバーエラー:最大レベルを取得できませんでした"
+
+#: __ROOT__/tool/stat_validator.php:134
+#, php-format
+msgid "%1$s의 %2$s의 이전 레벨이 이후 레벨보다 큽니다"
+msgstr "%1$sの%2$sの以前のレベルが後レベルより大きいです"
+
+#: __ROOT__/tool/stat_validator.php:135
+#, php-format
+msgid "%1$s의 %2$s의 이전 레벨이 범위를 벗어납니다"
+msgstr "%1$sの%2$sの以前のレベルが範囲を外します"
+
+#: __ROOT__/tool/stat_validator.php:136
+#, php-format
+msgid "%1$s의 %2$s의 이후 레벨이 범위를 벗어납니다"
+msgstr "%1$sの%2$sの以降のレベルが外れます"
+
+#: __ROOT__/tool/stat_validator.php:141
+msgid "서버오류: 최대 장비 티어를 가져오지 못했습니다"
+msgstr "サーバーエラー:最大装備ティアを持って来られませんでした"
+
+#: __ROOT__/tool/stat_validator.php:142
+#, php-format
+msgid "%1$s의 %2$s의 장비의 이전 티어가 이후 티어보다 큽니다"
+msgstr "%1$sの%2$sの装備の以前のティアがその後のティアより大きいです"
+
+#: __ROOT__/tool/stat_validator.php:143
+#, php-format
+msgid "%1$s의 %2$s의 장비의 이전 티어가 범위를 벗어납니다"
+msgstr "%1$sの%2$sの装備の以前のティアが範囲を外します"
+
+#: __ROOT__/tool/stat_validator.php:144
+#, php-format
+msgid "%1$s의 %2$s의 장비의 이후 티어가 범위를 벗어납니다"
+msgstr "%1$sの%2$sの装備の後ティアが範囲を外します"
+
+#: __ROOT__/tool/stat_validator.php:148
+#, php-format
+msgid "%1$s의 %2$s의 스킬의 이전 레벨이 이후 레벨보다 큽니다"
+msgstr "%1$sの%2$sのスキルの前のレベルが以降のレベルより大きいです"
+
+#: __ROOT__/tool/stat_validator.php:149
+#, php-format
+msgid "%1$s의 %2$s의 스킬의 이전 레벨이 범위를 벗어납니다"
+msgstr "%1$sの%2$sのスキルの以前のレベルが範囲を外します"
+
+#: __ROOT__/tool/stat_validator.php:150
+#, php-format
+msgid "%1$s의 %2$s의 스킬의 이후 레벨이 범위를 벗어납니다"
+msgstr "%1$sの%2$sのスキルの以降レベルが外れます"
+
+#: __ROOT__/tool/stat_validator.php:192
+msgid "입력값이 올바르지 않습니다"
+msgstr "入力値が正しくありません"
+
+#: __ROOT__/tool/each_table_generator.php:15
+msgid "(일본 서버)"
+msgstr "(JPサーバー)"
+
+#: __ROOT__/tool/each_table_generator.php:16
+msgid "(글로벌 서버)"
+msgstr "(グローバルサーバー)"
+
+#: __ROOT__/tool/each_table_generator.php:57
+#: __ROOT__/tool/item-calculator-result.html:199
+msgid "경험치"
+msgstr "経験値"
+
+#: __ROOT__/tool/item-calculator-result.html:132
+msgid "스탯 데이터를 받지 못했습니다"
+msgstr "ステータスデータを受け取りませんでした"
+
+#: __ROOT__/tool/item-calculator-result.html:183
+msgid "학생별 재화 보기"
+msgstr "学生別財貨を見る"
+
+#: __ROOT__/tool/item-calculator-result.html:193
+msgid "전체 재화"
+msgstr "全体財貨"
+
+#: __ROOT__/tool/item-calculator-result.html:227
+msgid "학생별 재화"
+msgstr "学生別財貨"
+
+#: __ROOT__/tool/equipment_table_generator.php:33
+msgid "장비"
+msgstr "装備"
+
+#: __ROOT__/tool/equipment_table_generator.php:35
+msgid "슬롯1"
+msgstr "スロット1"
+
+#: __ROOT__/tool/equipment_table_generator.php:36
+msgid "슬롯2"
+msgstr "スロット2"
+
+#: __ROOT__/tool/equipment_table_generator.php:37
+msgid "슬롯3"
+msgstr "スロット3"
+
+#: __ROOT__/tool/item-calculator.html:40
+msgid "json파일만 가능합니다"
+msgstr "jsonファイルのみ可能です"
+
+#: __ROOT__/tool/item-calculator.html:41
+msgid "장비1 티어"
+msgstr "装備1​Tier"
+
+#: __ROOT__/tool/item-calculator.html:42
+msgid "장비2 티어"
+msgstr "装備2​Tier"
+
+#: __ROOT__/tool/item-calculator.html:43
+msgid "장비3 티어"
+msgstr "装備3​Tier"
+
+#: __ROOT__/tool/item-calculator.html:44
+msgid "EX 스킬 레벨"
+msgstr "EX​スキル​レベル"
+
+#: __ROOT__/tool/item-calculator.html:45
+msgid "기본 스킬 레벨"
+msgstr "ノーマル​スキル​レベル"
+
+#: __ROOT__/tool/item-calculator.html:46
+msgid "강화 스킬 레벨"
+msgstr "パッシブ​スキル​レベル"
+
+#: __ROOT__/tool/item-calculator.html:47
+msgid "서브 스킬 레벨"
+msgstr "サブ​スキル​レベル"
+
+#: __ROOT__/tool/item-calculator.html:48
+msgid "키를 입력해주세요"
+msgstr "キーを入力してください"
+
+#: __ROOT__/tool/item-calculator.html:49
+msgid "저장할 값이 없습니다. 스탯값을 먼저 입력해주세요"
+msgstr "保存する値がありません。ステータス値を先に入力してください"
+
+#: __ROOT__/tool/item-calculator.html:50
+msgid "데이터를 저장했습니다"
+msgstr "データを保存しました"
+
+#: __ROOT__/tool/item-calculator.html:51
+msgid "데이터를 저장하지 못했습니다.\\n"
+msgstr "データを保存できませんでした。\\n"
+
+#: __ROOT__/tool/item-calculator.html:52
+msgid "데이터를 가져왔습니다"
+msgstr "データを持ってきました"
+
+#: __ROOT__/tool/item-calculator.html:53
+msgid "스탯 데이터를 가져오지 못했습니다.\\n"
+msgstr "ステータスデータを取得できませんでした。\\n"
+
+#: __ROOT__/tool/item-calculator.html:54
+msgid "파일이 비어있거나 선택되지 않았습니다."
+msgstr "ファイルが空いていたり選択されていません。"
+
+#: __ROOT__/tool/item-calculator.html:55
+msgid "데이터를 가져오지 못했습니다. 파일이 잘못됐을 수 있습니다.\\nmessage: "
+msgstr ""
+"データを持って来られませんでした。ファイルが間違っている可能性がありま"
+"す。\\nmessage: "
+
+#: __ROOT__/tool/item-calculator.html:56
+msgid "계산할 값이 없습니다. 스탯값을 먼저 입력해주세요"
+msgstr "計算する値がありません。ステータス値を先に入力してください"
+
+#: __ROOT__/tool/item-calculator.html:82
+msgid "서버에서"
+msgstr "サーバーから"
+
+#: __ROOT__/tool/item-calculator.html:83
+msgid "파일에서"
+msgstr "ファイルから"
+
+#: __ROOT__/tool/item-calculator.html:84
+msgid "다운로드"
+msgstr "ダウンロード"
+
+#: __ROOT__/tool/item-calculator.html:91
+msgid "저장"
+msgstr "保存"
+
+#: __ROOT__/tool/item-calculator.html:92
+msgid "불러오기"
+msgstr "読み込む"
+
+#: __ROOT__/tool/item-calculator.html:93
+msgid "캐릭터 자동선택"
+msgstr "学生自動選択"
+
+#: __ROOT__/tool/item-calculator.html:97
+msgid ""
+"텍스트 입력 박스에 원하는 키를 입력 후 [저장] 버튼으로 현재 페이지에서 입력했"
+"던 캐릭터들의 모든 스탯값을 서버에 저장할 수 있습니다."
+msgstr ""
+"テキスト入力ボックスに希望するキーを入力し、[保存]ボタンで現在のページで入力"
+"したキャラクターのすべてのステータス値をサーバーに保存することができます。"
+
+#: __ROOT__/tool/item-calculator.html:98
+msgid ""
+"[불러오기] 버튼을 눌러 입력된 키와 함께 서버에 저장된 스탯값 정보를 가져와서 "
+"이전에 저장했던 값을 현재 페이지에 복원할 수 있습니다."
+msgstr ""
+"[読み込む]ボタンを押して、入力されたキーとともにサーバーに保存されたステータ"
+"ス情報を持ってきて、以前保存した値を現在のページに復元することができます。"
+
+#: __ROOT__/tool/item-calculator.html:99
+msgid "[다운로드] 버튼을 눌러 현재 스탯 정보를 파일로 다운로드 할 수 있습니다."
+msgstr ""
+"[ダウンロード]ボタンを押すと、現在のステータス情報をファイルでダウンロードで"
+"きます。"
+
+#: __ROOT__/tool/item-calculator.html:100
+msgid ""
+"키는 다른 사람과 중복될 수 있으며, 다른사람의 값을 덮어쓰거나 다른사람이 나"
+"의 값을 덮어쓸 수 있습니다.<br>이를 방지하려면 자신만이 알 수 있는 고유한 키"
+"를 생각하세요"
+msgstr ""
+"キーは他の人と重複することがあり、他の人の値を上書きしたり、他の人が私の値を"
+"上書きすることができます。<br>これを防ぐためには、自分だけが知っている固有の"
+"キーを考えなさい"
+
+#: __ROOT__/tool/item-calculator.html:101
+msgid "키는 암호화되지 않습니다! 개인정보를 포함하지 마세요!"
+msgstr "キーは暗号化されません！ 個人情報を含めないでください！"
+
+#: __ROOT__/tool/item-calculator.html:107
+msgid "여기를 클릭하거나 파일을 드래그하여<br>불러올 데이터를 선택하세요"
+msgstr ""
+"ここをクリックするか、ファイルをドラッグして<br>読み込むデータを選択してくだ"
+"さい"
+
+#: __ROOT__/tool/item-calculator.html:110
+msgid "적용"
+msgstr "適用"
+
+#: __ROOT__/tool/item-calculator.html:118
+msgid "위의 버튼을 누르면 현재 입력된 스탯값을 파일로 다운로드 할 수 있습니다."
+msgstr ""
+"上記のボタンを押すと、現在入力されているステータス値をファイルでダウンロード"
+"することができます。"
+
+#: __ROOT__/tool/item-calculator.html:119
+msgid ""
+"다운로드된 json 파일은 현재 팝업의 [파일에서] 탭에서 다시 로드할 수 있습니다."
+msgstr ""
+"ダウンロードされたjsonファイルは、現在のポップアップの[ファイルから]タブで"
+"ロードすることができます。"
+
+#: __ROOT__/tool/item-calculator.html:145
+#: __ROOT__/tool/item-calculator.html:147
+msgid "전체 학교"
+msgstr "全学校"
+
+#: __ROOT__/tool/item-calculator.html:163
+msgid "데이터 로드/저장"
+msgstr "データ読み取り/保存"
+
+#: __ROOT__/tool/item-calculator.html:165
+msgid "계산"
+msgstr "計算"
+
+#: __ROOT__/contents/event.html:20
+#: __ROOT__/contents/event.html:116
+msgid "이벤트"
+msgstr "イベント"
+
+#: __ROOT__/contents/event.html:37
+msgid "{0}회 구매가능"
+msgstr "あと{0}回購入可能"
+
+#: __ROOT__/contents/event.html:38
+msgid "구매하기"
+msgstr "購入"
+
+#: __ROOT__/contents/event.html:39
+msgid "제한없음"
+msgstr "制限なし"
+
+#: __ROOT__/contents/event.html:40
+msgid "상점이 없습니다"
+msgstr "ショップがありません。"
+
+#: __ROOT__/contents/event.html:41
+#: __ROOT__/contents/stage.html:73
+msgid "입장"
+msgstr "入場"
+
+#: __ROOT__/contents/event.html:42
+msgid "미션이 없습니다"
+msgstr "ミッションがありません"
+
+#: __ROOT__/contents/event.html:43
+msgid "매일"
+msgstr "デイリー"
+
+#: __ROOT__/contents/event.html:44
+msgid "업적"
+msgstr "実績"
+
+#: __ROOT__/contents/event.html:45
+msgid "이 버튼은 장식입니다"
+msgstr "このボタンは飾りです"
+
+#: __ROOT__/contents/event.html:46
+msgid "보너스 학생이 없습니다"
+msgstr "ボーナス対象はありません"
+
+#: __ROOT__/contents/event.html:47
+msgid "임무가 없습니다"
+msgstr "任務がありません。"
+
+#: __ROOT__/contents/event.html:48
+msgid "복각"
+msgstr "覆刻"
+
+#: __ROOT__/contents/event.html:49
+msgid "횟수"
+msgstr "回数"
+
+#: __ROOT__/contents/event.html:50
+msgid "바로가기"
+msgstr "移動する"
+
+#: __ROOT__/contents/event.html:51
+#: __ROOT__/contents/stage.html:64
+msgid "임무 완료"
+msgstr "任務完了"
+
+#: __ROOT__/contents/event.html:52
+#: __ROOT__/contents/stage.html:65
+msgid "S랭크 {A}회 획득"
+msgstr "Sランクを{A}回獲得"
+
+#: __ROOT__/contents/event.html:53
+#: __ROOT__/contents/stage.html:66
+msgid "{A}턴 내 스테이지 클리어"
+msgstr "{A}ターン以内にステージクリア"
+
+#: __ROOT__/contents/event.html:54
+#: __ROOT__/contents/stage.html:67
+msgid "필요 재화 없음"
+msgstr "必要なアイテムなし"
+
+#: __ROOT__/contents/event.html:55
+#: __ROOT__/contents/stage.html:68
+msgid "{A} 사용"
+msgstr "{A} 必要"
+
+#: __ROOT__/contents/event.html:56
+#: __ROOT__/contents/stage.html:69
+msgid "소탕 시작"
+msgstr "掃討開始"
+
+#: __ROOT__/contents/event.html:57
+#: __ROOT__/contents/stage.html:70
+msgid "소탕 불가"
+msgstr "掃討不可"
+
+#: __ROOT__/contents/event.html:58
+#: __ROOT__/contents/stage.html:71
+msgid "초회"
+msgstr "初回"
+
+#: __ROOT__/contents/event.html:59
+#: __ROOT__/contents/stage.html:72
+msgid "레어"
+msgstr "レア"
+
+#: __ROOT__/contents/event.html:141
+#: __ROOT__/contents/event.html:219
+#: __ROOT__/contents/stage.html:262
+#: __ROOT__/contents/stage.html:338
+msgid "적 정보"
+msgstr "敵情報"
+
+#: __ROOT__/contents/event.html:146
+#: __ROOT__/contents/stage.html:267
+msgid "추천"
+msgstr "おすすめ"
+
+#: __ROOT__/contents/event.html:157
+#: __ROOT__/contents/stage.html:278
+msgid "임무 목표(☆)"
+msgstr "任務目標（☆）"
+
+#: __ROOT__/contents/event.html:173
+#: __ROOT__/contents/stage.html:294
+msgid "획득 가능 보상"
+msgstr "獲得可能報酬"
+
+#: __ROOT__/contents/event.html:182
+#: __ROOT__/contents/stage.html:303
+msgid "이 스테이지는 소탕을 사용할 수 없습니다."
+msgstr "このステージでは「掃討」を行うことができません。"
+
+#: __ROOT__/contents/event.html:183
+#: __ROOT__/contents/event.html:192
+#: __ROOT__/contents/stage.html:304
+#: __ROOT__/contents/stage.html:313
+msgid "소탕"
+msgstr "掃討"
+
+#: __ROOT__/contents/event.html:235
+#: __ROOT__/contents/event.html:245
+msgid "일본서버"
+msgstr "JP"
+
+#: __ROOT__/contents/event.html:238
+#: __ROOT__/contents/event.html:242
+msgid "글로벌서버"
+msgstr "グローバル"
+
+#: __ROOT__/contents/event.html:356
+msgid ""
+"이 이벤트는 아직 시작되지 않았습니다. 일부 정보는 누락되었거나 추후 변경될 "
+"수 있습니다."
+msgstr "このイベントはまだ始まっていません。 一部の情報は欠落しているか、後日変更される場合があります。"
+
+#: __ROOT__/contents/event.html:359
+msgid "일정"
+msgstr "スケジュール"
+
+#: __ROOT__/contents/event.html:363
+msgid "이벤트 시작"
+msgstr "イベント開始"
+
+#: __ROOT__/contents/event.html:367
+msgid "콘텐츠 종료"
+msgstr "コンテンツ終了"
+
+#: __ROOT__/contents/event.html:371
+msgid "이벤트 종료"
+msgstr "イベント終了"
+
+#: __ROOT__/contents/event.html:377
+msgid "상점"
+msgstr "ショップ"
+
+#: __ROOT__/contents/event.html:387
+msgid "보너스 학생"
+msgstr "ボーナス対象"
+
+#: __ROOT__/contents/event.html:395
+#: __ROOT__/contents/stage.html:367
+msgid "임무"
+msgstr "お仕事"
+
+#: __ROOT__/contents/event.html:405
+msgid "미션"
+msgstr "ミッション"
+
+#: __ROOT__/contents/stage.html:51
+#: __ROOT__/contents/stage.html:237
+msgid "스테이지"
+msgstr "ステージ"
+
+#: __ROOT__/contents/stage.html:74
+msgid "별 획득 현황 ({0}/{0})"
+msgstr "スター獲得状況 ({0}/{0})"
+
+#: __ROOT__/contents/stage.html:75
+msgid "지역이 범위를 벗어납니다"
+msgstr "エリアが範囲外です。"
+
+#: __ROOT__/contents/stage.html:370
+msgid "현상수배"
+msgstr "指名手配"
+
+#: __ROOT__/contents/stage.html:373
+msgid "특별의뢰"
+msgstr "特別依頼"
+
+#: __ROOT__/contents/stage.html:376
+msgid "학원교류회"
+msgstr "学園交流会"
+
+#: __ROOT__/contents/stage.html:384
+msgid "고가도로"
+msgstr "ハイウェイ"
+
+#: __ROOT__/contents/stage.html:387
+msgid "사막 기찻길"
+msgstr "砂漠の線路"
+
+#: __ROOT__/contents/stage.html:390
+msgid "교실"
+msgstr "校舎"
+
+#: __ROOT__/contents/stage.html:396
+msgid "거점 방어"
+msgstr "拠点防衛"
+
+#: __ROOT__/contents/stage.html:399
+msgid "물건 회수"
+msgstr "クレジット回収"
+
+#: __ROOT__/contents/stage.html:405
+msgid "트리니티"
+msgstr "トリニティ"
+
+#: __ROOT__/contents/stage.html:408
+msgid "게헨나"
+msgstr "ゲヘナ"
+
+#: __ROOT__/contents/stage.html:411
+msgid "밀레니엄"
+msgstr "ミレニアム"
+
+#: __ROOT__/contents/stage.html:428
+msgid "불러오는 중..."
+msgstr "ロード中…"
+
+#: __ROOT__/contents/stage.html:448
+msgid "보상 완료"
+msgstr "獲得済み"
+
+#: __ROOT__/contents/stage.html:456
+msgid "지역 이동"
+msgstr "エリア移動"
+
+#: __ROOT__/contents/stage.html:469
+msgid "학원 버프"
+msgstr "学園効果"
+
+#: __ROOT__/contents/stage.html:470
+msgid "추천 학원 학생을 부대에 편성하면 능력치가 올라갑니다."
+msgstr "おすすめの学園の生徒を部隊に編成すると、能力値が上がります。"
+
+#: __ROOT__/contents/stage.html:480
+msgid "스테이지 목록"
+msgstr "ステージ一覧"
+
+#~ msgid "기타"
+#~ msgstr "その他"
+
+#~ msgid "제한 해제"
+#~ msgstr "限界突破"
+
+#~ msgid "프로필 메시지"
+#~ msgstr "ステータスメッセージ"
+
+#~ msgid "스쿼드"
+#~ msgstr "役割"
+
+#~ msgid "서포터"
+#~ msgstr "サポーター"
+
+#~ msgid "(OR검색) "
+#~ msgstr "(OR検索) "
