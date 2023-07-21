@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-14 22:40+0900\n"
-"PO-Revision-Date: 2023-07-15 13:18+0900\n"
+"POT-Creation-Date: 2023-07-20 16:05+0900\n"
+"PO-Revision-Date: 2023-07-20 16:30+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh_TW\n"
@@ -57,7 +57,7 @@ msgstr "Blue Archive Utils"
 #: __ROOT__/table/favor.html:144
 #: __ROOT__/tool/item-calculator-result.html:152
 #: __ROOT__/tool/item-calculator.html:71
-#: __ROOT__/contents/event.html:115
+#: __ROOT__/contents/event.html:118
 #: __ROOT__/contents/stage.html:245
 msgid "홈"
 msgstr "Home"
@@ -534,7 +534,7 @@ msgid "학생별<=>선물별 선호도 데이터 테이블"
 msgstr "Preference data table by student and gift"
 
 #: __ROOT__/index.html:153
-#: __ROOT__/contents/event.html:116
+#: __ROOT__/contents/event.html:119
 #: __ROOT__/contents/stage.html:246
 msgid "콘텐츠"
 msgstr "Contents"
@@ -548,7 +548,7 @@ msgid "서버별 전체 이벤트 정보 보기"
 msgstr "View all event information by server"
 
 #: __ROOT__/index.html:172
-#: __ROOT__/contents/event.html:126
+#: __ROOT__/contents/event.html:129
 #: __ROOT__/contents/stage.html:256
 msgid "임무 정보"
 msgstr "任務資訊"
@@ -1474,7 +1474,7 @@ msgid "계산"
 msgstr "Calculate"
 
 #: __ROOT__/contents/event.html:20
-#: __ROOT__/contents/event.html:117
+#: __ROOT__/contents/event.html:120
 msgid "이벤트"
 msgstr "Event"
 
@@ -1584,51 +1584,63 @@ msgstr "首次"
 msgid "레어"
 msgstr "稀有"
 
-#: __ROOT__/contents/event.html:142
-#: __ROOT__/contents/event.html:220
+#: __ROOT__/contents/event.html:61
+msgid "{0}회차"
+msgstr "第{0}次"
+
+#: __ROOT__/contents/event.html:62
+msgid "개"
+msgstr "個"
+
+#: __ROOT__/contents/event.html:63
+msgid "트랙 완주 {0} 회"
+msgstr "完成跑道{0}次"
+
+#: __ROOT__/contents/event.html:145
+#: __ROOT__/contents/event.html:223
 #: __ROOT__/contents/stage.html:272
 #: __ROOT__/contents/stage.html:348
 msgid "적 정보"
 msgstr "敵人資訊"
 
-#: __ROOT__/contents/event.html:147
+#: __ROOT__/contents/event.html:150
 #: __ROOT__/contents/stage.html:277
 msgid "추천"
 msgstr "推薦"
 
-#: __ROOT__/contents/event.html:158
+#: __ROOT__/contents/event.html:161
 #: __ROOT__/contents/stage.html:288
 msgid "임무 목표(☆)"
 msgstr "任務目標 (☆)"
 
-#: __ROOT__/contents/event.html:174
+#: __ROOT__/contents/event.html:177
 #: __ROOT__/contents/stage.html:304
 msgid "획득 가능 보상"
 msgstr "可獲得獎勵"
 
-#: __ROOT__/contents/event.html:183
+#: __ROOT__/contents/event.html:186
 #: __ROOT__/contents/stage.html:313
 msgid "이 스테이지는 소탕을 사용할 수 없습니다."
 msgstr "該關卡無法掃蕩。"
 
-#: __ROOT__/contents/event.html:184
-#: __ROOT__/contents/event.html:193
+#: __ROOT__/contents/event.html:187
+#: __ROOT__/contents/event.html:196
 #: __ROOT__/contents/stage.html:314
 #: __ROOT__/contents/stage.html:323
 msgid "소탕"
 msgstr "掃蕩"
 
-#: __ROOT__/contents/event.html:236
-#: __ROOT__/contents/event.html:246
+#: __ROOT__/contents/event.html:239
+#: __ROOT__/contents/event.html:249
 msgid "일본서버"
 msgstr "JP"
 
-#: __ROOT__/contents/event.html:239
-#: __ROOT__/contents/event.html:243
+#: __ROOT__/contents/event.html:242
+#: __ROOT__/contents/event.html:246
 msgid "글로벌서버"
 msgstr "Global"
 
-#: __ROOT__/contents/event.html:357
+#: __ROOT__/contents/event.html:360
 msgid ""
 "이 이벤트는 아직 시작되지 않았습니다. 일부 정보는 누락되었거나 추후 변경될 "
 "수 있습니다."
@@ -1636,38 +1648,96 @@ msgstr ""
 "This event has not started yet. Some information is missing or subject to "
 "further changes."
 
-#: __ROOT__/contents/event.html:360
+#: __ROOT__/contents/event.html:363
 msgid "일정"
 msgstr "Schedule"
 
-#: __ROOT__/contents/event.html:364
+#: __ROOT__/contents/event.html:367
 msgid "이벤트 시작"
 msgstr "Event Start"
 
-#: __ROOT__/contents/event.html:368
+#: __ROOT__/contents/event.html:371
 msgid "콘텐츠 종료"
 msgstr "Contents End"
 
-#: __ROOT__/contents/event.html:372
+#: __ROOT__/contents/event.html:375
 msgid "이벤트 종료"
 msgstr "Event End"
 
-#: __ROOT__/contents/event.html:378
+#: __ROOT__/contents/event.html:381
 msgid "상점"
 msgstr "商店"
 
-#: __ROOT__/contents/event.html:388
+#: __ROOT__/contents/event.html:391
 msgid "보너스 학생"
 msgstr "獎勵對象"
 
-#: __ROOT__/contents/event.html:396
+#: __ROOT__/contents/event.html:399
 #: __ROOT__/contents/stage.html:377
 msgid "임무"
 msgstr "任務"
 
-#: __ROOT__/contents/event.html:406
+#: __ROOT__/contents/event.html:409
 msgid "미션"
 msgstr "任務"
+
+#: __ROOT__/contents/event.html:419
+msgid "이벤트 경품 교환소"
+msgstr "活動贈品交換所"
+
+#: __ROOT__/contents/event.html:428
+msgid "오미쿠지"
+msgstr "御神籤"
+
+#: __ROOT__/contents/event.html:430
+msgid "※아래 확률은 변동 보정이 적용되지 않은 기본 확률입니다."
+msgstr ""
+"※The probability below is the default probability without variation "
+"correction."
+
+#: __ROOT__/contents/event.html:434
+msgid "운세"
+msgstr "运道"
+
+#: __ROOT__/contents/event.html:435
+#: __ROOT__/contents/event.html:471
+msgid "확률"
+msgstr "概率"
+
+#: __ROOT__/contents/event.html:436
+msgid "내용"
+msgstr "內容"
+
+#: __ROOT__/contents/event.html:437
+#: __ROOT__/contents/event.html:472
+msgid "보상"
+msgstr "獎勵獎勵完成"
+
+#: __ROOT__/contents/event.html:448
+msgid "주사위 달리기"
+msgstr "擲骰賽跑"
+
+#: __ROOT__/contents/event.html:455
+msgid "트랙 완주 보상 정보"
+msgstr "跑完全程獎勵資訊"
+
+#: __ROOT__/contents/event.html:462
+msgid "이벤트 카드 상점"
+msgstr "活動卡片商店"
+
+#: __ROOT__/contents/event.html:465
+msgid "※아래 확률은 SR 이상 보정이 적용되지 않은 확률입니다."
+msgstr ""
+"※The probability below is the probability that SR or higher calibration is "
+"not applied."
+
+#: __ROOT__/contents/event.html:469
+msgid "레어도"
+msgstr "Rarity"
+
+#: __ROOT__/contents/event.html:470
+msgid "카드"
+msgstr "卡"
 
 #: __ROOT__/contents/stage.html:51
 #: __ROOT__/contents/stage.html:247
