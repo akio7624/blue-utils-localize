@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-20 16:05+0900\n"
-"PO-Revision-Date: 2023-07-20 16:30+0900\n"
+"POT-Creation-Date: 2023-12-01 23:06+0900\n"
+"PO-Revision-Date: 2023-12-01 23:20+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh_TW\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: _\n"
@@ -32,14 +32,15 @@ msgstr "Site Update"
 #: __ROOT__/item.html:9
 #: __ROOT__/index.html:10
 #: __ROOT__/lib/html_snippet/navbar.html:79
-#: __ROOT__/student-detail-normal.html:459
+#: __ROOT__/student-detail-normal.html:470
 #: __ROOT__/furniture.html:9
 #: __ROOT__/flying-yuuka.html:10
 #: __ROOT__/whats-going-on.html:19
-#: __ROOT__/student.html:160
+#: __ROOT__/student.html:162
 #: __ROOT__/tool/item-calculator-result.html:78
 #: __ROOT__/tool/item-calculator.html:23
 #: __ROOT__/contents/event.html:20
+#: __ROOT__/contents/voice-room.html:24
 #: __ROOT__/contents/stage.html:51
 msgid "블루아카 유틸"
 msgstr "Blue Archive Utils"
@@ -50,14 +51,15 @@ msgstr "Blue Archive Utils"
 #: __ROOT__/student-detail-idol.html:43
 #: __ROOT__/item.html:30
 #: __ROOT__/index.html:42
-#: __ROOT__/student-detail-normal.html:523
+#: __ROOT__/student-detail-normal.html:534
 #: __ROOT__/furniture.html:39
 #: __ROOT__/whats-going-on.html:65
-#: __ROOT__/student.html:177
+#: __ROOT__/student.html:179
 #: __ROOT__/table/favor.html:144
 #: __ROOT__/tool/item-calculator-result.html:152
 #: __ROOT__/tool/item-calculator.html:71
 #: __ROOT__/contents/event.html:118
+#: __ROOT__/contents/voice-room.html:54
 #: __ROOT__/contents/stage.html:245
 msgid "홈"
 msgstr "Home"
@@ -262,62 +264,62 @@ msgid "연락처"
 msgstr "Contact"
 
 #: __ROOT__/introduce.html:108
-#: __ROOT__/student-detail-normal.html:1546
+#: __ROOT__/student-detail-normal.html:1557
 msgid "표시하기"
 msgstr "Show"
 
 #: __ROOT__/student-detail-idol.html:44
 #: __ROOT__/index.html:55
-#: __ROOT__/student-detail-normal.html:524
-#: __ROOT__/student.html:160
-#: __ROOT__/student.html:178
+#: __ROOT__/student-detail-normal.html:535
+#: __ROOT__/student.html:162
+#: __ROOT__/student.html:180
 msgid "학생 명부"
 msgstr "Student List"
 
 #: __ROOT__/student-detail-idol.html:112
-#: __ROOT__/student-detail-normal.html:801
+#: __ROOT__/student-detail-normal.html:812
 msgid "소개"
 msgstr "Introduce"
 
 #: __ROOT__/student-detail-idol.html:130
-#: __ROOT__/student-detail-normal.html:835
+#: __ROOT__/student-detail-normal.html:846
 msgid "정보"
 msgstr "Information"
 
 #: __ROOT__/student-detail-idol.html:135
-#: __ROOT__/student-detail-normal.html:840
-#: __ROOT__/student.html:305
+#: __ROOT__/student-detail-normal.html:851
+#: __ROOT__/student.html:307
 msgid "동아리"
 msgstr "Club"
 
 #: __ROOT__/student-detail-idol.html:139
-#: __ROOT__/student-detail-normal.html:844
+#: __ROOT__/student-detail-normal.html:855
 msgid "나이"
 msgstr "Age"
 
 #: __ROOT__/student-detail-idol.html:143
-#: __ROOT__/student-detail-normal.html:848
+#: __ROOT__/student-detail-normal.html:859
 msgid "키"
 msgstr "Height"
 
 #: __ROOT__/student-detail-idol.html:147
-#: __ROOT__/student-detail-normal.html:852
+#: __ROOT__/student-detail-normal.html:863
 msgid "생일"
 msgstr "Birthday"
 
 #: __ROOT__/student-detail-idol.html:151
-#: __ROOT__/student-detail-normal.html:856
+#: __ROOT__/student-detail-normal.html:867
 msgid "취미"
 msgstr "Hobby"
 
 #: __ROOT__/student-detail-idol.html:155
-#: __ROOT__/student-detail-normal.html:860
+#: __ROOT__/student-detail-normal.html:871
 msgid "성우"
 msgstr "Voice Actor"
 
 #: __ROOT__/student-detail-idol.html:159
-#: __ROOT__/student-detail-normal.html:594
-#: __ROOT__/student-detail-normal.html:864
+#: __ROOT__/student-detail-normal.html:605
+#: __ROOT__/student-detail-normal.html:875
 msgid "일러스트"
 msgstr "Illust"
 
@@ -392,6 +394,7 @@ msgstr "Item List"
 #: __ROOT__/furniture.html:22
 #: __ROOT__/table/favor.html:135
 #: __ROOT__/table/favor.html:174
+#: __ROOT__/contents/voice-room.html:42
 msgid "전체"
 msgstr "ALL"
 
@@ -403,6 +406,8 @@ msgstr "Please choose an item"
 #: __ROOT__/furniture.html:84
 #: __ROOT__/table/favor.html:158
 #: __ROOT__/tool/item-calculator.html:140
+#: __ROOT__/contents/voice-room.html:65
+#: __ROOT__/contents/voice-room.html:99
 #: __ROOT__/contents/stage.html:365
 msgid "서버"
 msgstr "server"
@@ -412,6 +417,8 @@ msgstr "server"
 #: __ROOT__/furniture.html:87
 #: __ROOT__/table/favor.html:161
 #: __ROOT__/tool/item-calculator.html:142
+#: __ROOT__/contents/voice-room.html:67
+#: __ROOT__/contents/voice-room.html:102
 msgid "일본"
 msgstr "Japan"
 
@@ -420,6 +427,8 @@ msgstr "Japan"
 #: __ROOT__/furniture.html:88
 #: __ROOT__/table/favor.html:162
 #: __ROOT__/tool/item-calculator.html:143
+#: __ROOT__/contents/voice-room.html:68
+#: __ROOT__/contents/voice-room.html:103
 msgid "글로벌"
 msgstr "Global"
 
@@ -586,311 +595,311 @@ msgstr "Language Setting"
 msgid "언어선택"
 msgstr "Select Language"
 
-#: __ROOT__/student-detail-normal.html:116
+#: __ROOT__/student-detail-normal.html:118
 msgid "[성장 재료 열기]"
 msgstr "[Open Growth Material]"
 
-#: __ROOT__/student-detail-normal.html:117
+#: __ROOT__/student-detail-normal.html:119
 msgid "[성장 재료 닫기]"
 msgstr "[Close Growth Material]"
 
-#: __ROOT__/student-detail-normal.html:118
+#: __ROOT__/student-detail-normal.html:120
 msgid "[성장 재료 합계 열기]"
 msgstr "[Open Growth Material Count]"
 
-#: __ROOT__/student-detail-normal.html:119
+#: __ROOT__/student-detail-normal.html:121
 msgid "[성장 재료 합계 닫기]"
 msgstr "[Close Growth Material Count]"
 
-#: __ROOT__/student-detail-normal.html:120
+#: __ROOT__/student-detail-normal.html:122
 msgid "코스트"
 msgstr "Cost"
 
-#: __ROOT__/student-detail-normal.html:121
-#: __ROOT__/student-detail-normal.html:1424
+#: __ROOT__/student-detail-normal.html:123
+#: __ROOT__/student-detail-normal.html:1435
 msgid "스킬 성장 재료"
 msgstr "Skill Growth Material"
 
-#: __ROOT__/student-detail-normal.html:122
+#: __ROOT__/student-detail-normal.html:124
 msgid "소모 재료 합계"
 msgstr "Growth Material Count"
 
-#: __ROOT__/student-detail-normal.html:494
-#: __ROOT__/student-detail-normal.html:1575
-#: __ROOT__/student-detail-normal.html:1718
-#: __ROOT__/student-detail-normal.html:1755
-#: __ROOT__/student-detail-normal.html:1831
+#: __ROOT__/student-detail-normal.html:505
+#: __ROOT__/student-detail-normal.html:1586
+#: __ROOT__/student-detail-normal.html:1729
+#: __ROOT__/student-detail-normal.html:1766
+#: __ROOT__/student-detail-normal.html:1842
 msgid "[펼치기]"
 msgstr "[Open]"
 
-#: __ROOT__/student-detail-normal.html:495
+#: __ROOT__/student-detail-normal.html:506
 msgid "[접기]"
 msgstr "[Close]"
 
-#: __ROOT__/student-detail-normal.html:534
+#: __ROOT__/student-detail-normal.html:545
 msgid "일본 서버에만 존재하는 캐릭터입니다."
 msgstr "It is a character that exists only in Japanese servers."
 
-#: __ROOT__/student-detail-normal.html:535
+#: __ROOT__/student-detail-normal.html:546
 msgid "일부 정보는 일본어로 표시됩니다."
 msgstr "Some information is displayed in Japanese."
 
-#: __ROOT__/student-detail-normal.html:551
+#: __ROOT__/student-detail-normal.html:562
 msgid "현재 일본 서버 데이터를 보고 있습니다."
 msgstr "You are currently looking at Japanese server data."
 
-#: __ROOT__/student-detail-normal.html:552
+#: __ROOT__/student-detail-normal.html:563
 msgid "[글로벌 서버 데이터로 보기]"
 msgstr "[View as global server data]"
 
-#: __ROOT__/student-detail-normal.html:567
+#: __ROOT__/student-detail-normal.html:578
 msgid "현재 글로벌 서버 데이터를 보고 있습니다."
 msgstr "You are currently looking at Global server data."
 
-#: __ROOT__/student-detail-normal.html:568
+#: __ROOT__/student-detail-normal.html:579
 msgid "[일본 서버 데이터로 보기]"
 msgstr "[View as Japanese server data]"
 
-#: __ROOT__/student-detail-normal.html:598
+#: __ROOT__/student-detail-normal.html:609
 msgid "전신 일러스트(Spine2D) 보기"
 msgstr "Show full illust(Spine2D)"
 
-#: __ROOT__/student-detail-normal.html:601
+#: __ROOT__/student-detail-normal.html:612
 msgid "SD"
 msgstr "Sprite"
 
-#: __ROOT__/student-detail-normal.html:624
+#: __ROOT__/student-detail-normal.html:635
 msgid "모든 전신 일러스트 보기(Google Drive)"
 msgstr "Show All Character's Spine2D (Google Drive)"
 
-#: __ROOT__/student-detail-normal.html:629
+#: __ROOT__/student-detail-normal.html:640
 msgid "헤일로"
 msgstr "Halo"
 
-#: __ROOT__/student-detail-normal.html:688
+#: __ROOT__/student-detail-normal.html:699
 msgid "스킨 목록"
 msgstr "Skin List"
 
-#: __ROOT__/student-detail-normal.html:764
-#: __ROOT__/api/tooltip.php:159
+#: __ROOT__/student-detail-normal.html:775
+#: __ROOT__/api/tooltip.php:189
 msgid "기본"
-msgstr "Default "
+msgstr "Default"
 
-#: __ROOT__/student-detail-normal.html:765
-#: __ROOT__/api/tooltip.php:159
+#: __ROOT__/student-detail-normal.html:776
+#: __ROOT__/api/tooltip.php:189
 msgid "최대"
 msgstr "Max"
 
-#: __ROOT__/student-detail-normal.html:817
+#: __ROOT__/student-detail-normal.html:828
 msgid "모모톡 상태 메시지"
 msgstr "MomoTalk狀態消息"
 
-#: __ROOT__/student-detail-normal.html:869
+#: __ROOT__/student-detail-normal.html:880
 msgid "디자인"
 msgstr "Design"
 
-#: __ROOT__/student-detail-normal.html:884
+#: __ROOT__/student-detail-normal.html:895
 msgid "기본 능력치"
 msgstr "Default Stats"
 
-#: __ROOT__/student-detail-normal.html:889
-#: __ROOT__/student-detail-normal.html:1210
+#: __ROOT__/student-detail-normal.html:900
+#: __ROOT__/student-detail-normal.html:1221
 msgid "체력"
 msgstr "HP"
 
-#: __ROOT__/student-detail-normal.html:891
-#: __ROOT__/student-detail-normal.html:1209
+#: __ROOT__/student-detail-normal.html:902
+#: __ROOT__/student-detail-normal.html:1220
 msgid "공격력"
 msgstr "ATK"
 
-#: __ROOT__/student-detail-normal.html:895
+#: __ROOT__/student-detail-normal.html:906
 msgid "방어력"
 msgstr "DEF"
 
-#: __ROOT__/student-detail-normal.html:897
-#: __ROOT__/student-detail-normal.html:1211
+#: __ROOT__/student-detail-normal.html:908
+#: __ROOT__/student-detail-normal.html:1222
 msgid "치유력"
 msgstr "HEAL"
 
-#: __ROOT__/student-detail-normal.html:901
+#: __ROOT__/student-detail-normal.html:912
 msgid "명중 수치"
 msgstr "Accuracy"
 
-#: __ROOT__/student-detail-normal.html:903
+#: __ROOT__/student-detail-normal.html:914
 msgid "회피 수치"
 msgstr "Evasion"
 
-#: __ROOT__/student-detail-normal.html:907
+#: __ROOT__/student-detail-normal.html:918
 msgid "치명 수치"
 msgstr "Crit"
 
-#: __ROOT__/student-detail-normal.html:909
+#: __ROOT__/student-detail-normal.html:920
 msgid "치명 대미지"
 msgstr "Crit DMG"
 
-#: __ROOT__/student-detail-normal.html:913
+#: __ROOT__/student-detail-normal.html:924
 msgid "안정 수치"
 msgstr "Stability"
 
-#: __ROOT__/student-detail-normal.html:915
+#: __ROOT__/student-detail-normal.html:926
 msgid "일반공격 사거리"
 msgstr "Normal Attack Range"
 
-#: __ROOT__/student-detail-normal.html:919
+#: __ROOT__/student-detail-normal.html:930
 msgid "군중제어 강화력"
 msgstr "Crowd Control Power"
 
-#: __ROOT__/student-detail-normal.html:921
+#: __ROOT__/student-detail-normal.html:932
 msgid "군중제어 저항력"
 msgstr "Crowd Control RES"
 
-#: __ROOT__/student-detail-normal.html:925
+#: __ROOT__/student-detail-normal.html:936
 msgid "코스트 회복력"
 msgstr "Cost Recovery"
 
-#: __ROOT__/student-detail-normal.html:930
+#: __ROOT__/student-detail-normal.html:941
 msgid "* 1성 외의 캐릭터의 체력, 공격력, 치유력은 정확하지 않습니다."
 msgstr "* HP, ATK, and HEAL of characters other than ★1 are not accurate."
 
-#: __ROOT__/student-detail-normal.html:931
+#: __ROOT__/student-detail-normal.html:942
 msgid "* 1레벨, 기본 성급 기준입니다."
 msgstr "* Level 1, base default star."
 
-#: __ROOT__/student-detail-normal.html:944
+#: __ROOT__/student-detail-normal.html:955
 msgid " 공격타입"
 msgstr " Attack Type"
 
-#: __ROOT__/student-detail-normal.html:956
+#: __ROOT__/student-detail-normal.html:967
 msgid " 방어타입"
 msgstr " Defense Type"
 
-#: __ROOT__/student-detail-normal.html:980
+#: __ROOT__/student-detail-normal.html:991
 msgid "지형 상성"
 msgstr "Terrain Adaptation"
 
-#: __ROOT__/student-detail-normal.html:1019
+#: __ROOT__/student-detail-normal.html:1030
 msgid "장착 장비"
 msgstr "Equipment"
 
-#: __ROOT__/student-detail-normal.html:1096
+#: __ROOT__/student-detail-normal.html:1107
 msgid "주요 선물 목록"
 msgstr "主要禮物列表"
 
-#: __ROOT__/student-detail-normal.html:1115
-#: __ROOT__/student-detail-normal.html:1146
+#: __ROOT__/student-detail-normal.html:1126
+#: __ROOT__/student-detail-normal.html:1157
 msgid "고유 무기"
 msgstr "Exclusive Weapon"
 
-#: __ROOT__/student-detail-normal.html:1175
-#: __ROOT__/student-detail-normal.html:1208
+#: __ROOT__/student-detail-normal.html:1186
+#: __ROOT__/student-detail-normal.html:1219
 msgid "레벨"
 msgstr "Lv."
 
-#: __ROOT__/student-detail-normal.html:1176
+#: __ROOT__/student-detail-normal.html:1187
 msgid "한계 해방"
 msgstr "極限解放"
 
-#: __ROOT__/student-detail-normal.html:1203
+#: __ROOT__/student-detail-normal.html:1214
 msgid "스테이터스 정보"
 msgstr "Stats Information"
 
-#: __ROOT__/student-detail-normal.html:1237
-#: __ROOT__/student-detail-normal.html:1492
+#: __ROOT__/student-detail-normal.html:1248
+#: __ROOT__/student-detail-normal.html:1503
 msgid "강화 스킬"
 msgstr "強化技能"
 
-#: __ROOT__/student-detail-normal.html:1295
-#: __ROOT__/student-detail-normal.html:1321
-#: __ROOT__/student-detail-normal.html:1338
+#: __ROOT__/student-detail-normal.html:1306
+#: __ROOT__/student-detail-normal.html:1332
+#: __ROOT__/student-detail-normal.html:1349
 msgid "애용품"
 msgstr "Favorite"
 
-#: __ROOT__/student-detail-normal.html:1311
+#: __ROOT__/student-detail-normal.html:1322
 msgid "애용품은 현재 일본 서버에만 있습니다"
 msgstr "A currently exists only on JP server"
 
-#: __ROOT__/student-detail-normal.html:1326
+#: __ROOT__/student-detail-normal.html:1337
 msgid "아직 애용품이 없는 학생입니다."
 msgstr "No Favorite Item Exist."
 
-#: __ROOT__/student-detail-normal.html:1343
+#: __ROOT__/student-detail-normal.html:1354
 #: __ROOT__/tool/equipment_table_generator.php:34
 msgid "티어"
 msgstr "Tier"
 
-#: __ROOT__/student-detail-normal.html:1344
+#: __ROOT__/student-detail-normal.html:1355
 msgid "상세"
 msgstr "Detail"
 
-#: __ROOT__/student-detail-normal.html:1357
-#: __ROOT__/student-detail-normal.html:1385
+#: __ROOT__/student-detail-normal.html:1368
+#: __ROOT__/student-detail-normal.html:1396
 msgid "인연랭크"
 msgstr "Favor Rank"
 
-#: __ROOT__/student-detail-normal.html:1389
+#: __ROOT__/student-detail-normal.html:1400
 #: __ROOT__/tool/each_table_generator.php:62
 #: __ROOT__/tool/item-calculator-result.html:204
 msgid "크레딧"
 msgstr "Credits"
 
-#: __ROOT__/student-detail-normal.html:1409
-#: __ROOT__/student-detail-normal.html:1481
+#: __ROOT__/student-detail-normal.html:1420
+#: __ROOT__/student-detail-normal.html:1492
 msgid "기본 스킬"
 msgstr "基本技能"
 
-#: __ROOT__/student-detail-normal.html:1471
+#: __ROOT__/student-detail-normal.html:1482
 msgid "EX 스킬"
 msgstr "EX技能"
 
-#: __ROOT__/student-detail-normal.html:1501
+#: __ROOT__/student-detail-normal.html:1512
 msgid "서브 스킬"
 msgstr "子技能"
 
-#: __ROOT__/student-detail-normal.html:1516
+#: __ROOT__/student-detail-normal.html:1527
 msgid "메모리얼 로비"
 msgstr "Memorial Lobby"
 
-#: __ROOT__/student-detail-normal.html:1527
+#: __ROOT__/student-detail-normal.html:1538
 msgid "영상 보기"
 msgstr "Show Video"
 
-#: __ROOT__/student-detail-normal.html:1533
+#: __ROOT__/student-detail-normal.html:1544
 msgid "고해상도 이미지 보기"
 msgstr "Show High-resolution Images"
 
-#: __ROOT__/student-detail-normal.html:1543
+#: __ROOT__/student-detail-normal.html:1554
 msgid "메모리얼 영상을 가져오지 못했습니다."
 msgstr "Failed to get Memorial Video."
 
-#: __ROOT__/student-detail-normal.html:1545
+#: __ROOT__/student-detail-normal.html:1556
 msgid "이 컨텐츠는 일본 서버의 컨텐츠입니다. 표시하시겠습니까?"
 msgstr "This is the content of the Japanese server. Do you want to mark it?"
 
-#: __ROOT__/student-detail-normal.html:1560
+#: __ROOT__/student-detail-normal.html:1571
 msgid "해금 인연 랭크"
 msgstr "Unlock Level"
 
-#: __ROOT__/student-detail-normal.html:1570
+#: __ROOT__/student-detail-normal.html:1581
 msgid "인연 랭크 보너스"
 msgstr "Affection Rank Bonus"
 
-#: __ROOT__/student-detail-normal.html:1584
+#: __ROOT__/student-detail-normal.html:1595
 msgid "랭크"
 msgstr "Rank"
 
-#: __ROOT__/student-detail-normal.html:1585
+#: __ROOT__/student-detail-normal.html:1596
 msgid "추가"
 msgstr "ADD"
 
-#: __ROOT__/student-detail-normal.html:1586
+#: __ROOT__/student-detail-normal.html:1597
 msgid "누적"
 msgstr "TOTAL"
 
-#: __ROOT__/student-detail-normal.html:1712
+#: __ROOT__/student-detail-normal.html:1723
 msgid "대사"
 msgstr "Dialog"
 
-#: __ROOT__/student-detail-normal.html:1750
+#: __ROOT__/student-detail-normal.html:1761
 msgid "기타 대사"
 msgstr "Etc. Dialog"
 
@@ -934,42 +943,48 @@ msgstr "Filter is empty."
 msgid "언어가 잘못되었습니다."
 msgstr "Wrong Language."
 
-#: __ROOT__/api/contents/stage-detail.php:180
-#: __ROOT__/api/contents/event-stage.php:129
+#: __ROOT__/api/contents/stage-detail.php:181
+#: __ROOT__/api/contents/event-stage.php:130
 msgid "폭발"
 msgstr "爆炸"
 
-#: __ROOT__/api/contents/stage-detail.php:181
-#: __ROOT__/api/contents/event-stage.php:130
+#: __ROOT__/api/contents/stage-detail.php:182
+#: __ROOT__/api/contents/event-stage.php:131
 msgid "관통"
 msgstr "貫穿"
 
-#: __ROOT__/api/contents/stage-detail.php:182
-#: __ROOT__/api/contents/event-stage.php:131
+#: __ROOT__/api/contents/stage-detail.php:183
+#: __ROOT__/api/contents/event-stage.php:132
 msgid "신비"
 msgstr "神秘Equipment"
 
-#: __ROOT__/api/contents/stage-detail.php:183
-#: __ROOT__/api/contents/event-stage.php:132
+#: __ROOT__/api/contents/stage-detail.php:184
+#: __ROOT__/api/contents/event-stage.php:133
 msgid "일반"
 msgstr "一般"
 
-#: __ROOT__/api/contents/stage-detail.php:192
-#: __ROOT__/api/contents/event-stage.php:141
+#: __ROOT__/api/contents/stage-detail.php:185
+#: __ROOT__/api/contents/event-stage.php:134
+msgid "진동"
+msgstr "振動"
+
+#: __ROOT__/api/contents/stage-detail.php:195
+#: __ROOT__/api/contents/event-stage.php:144
 msgid "경장갑"
 msgstr "輕裝甲"
 
-#: __ROOT__/api/contents/stage-detail.php:193
-#: __ROOT__/api/contents/event-stage.php:142
+#: __ROOT__/api/contents/stage-detail.php:196
+#: __ROOT__/api/contents/event-stage.php:145
 msgid "중장갑"
 msgstr "重装甲"
 
-#: __ROOT__/api/contents/stage-detail.php:194
-#: __ROOT__/api/contents/event-stage.php:143
+#: __ROOT__/api/contents/stage-detail.php:197
+#: __ROOT__/api/contents/event-stage.php:146
 msgid "특수장갑"
 msgstr "特殊装甲"
 
-#: __ROOT__/api/contents/event-stage.php:144
+#: __ROOT__/api/contents/stage-detail.php:198
+#: __ROOT__/api/contents/event-stage.php:147
 msgid "탄력장갑"
 msgstr "彈力裝甲"
 
@@ -1023,96 +1038,96 @@ msgstr "Smoke Frequency(0~100): "
 msgid "상황 정리"
 msgstr "Briefing"
 
-#: __ROOT__/student.html:59
+#: __ROOT__/student.html:61
 msgid "스트라이커"
 msgstr "STRIKER"
 
-#: __ROOT__/student.html:61
+#: __ROOT__/student.html:63
 msgid "스페셜"
 msgstr "SPECIAL"
 
-#: __ROOT__/student.html:93
+#: __ROOT__/student.html:95
 msgid "장난스런☆스트레이트"
 msgstr "Mischievous☆Straight"
 
-#: __ROOT__/student.html:181
+#: __ROOT__/student.html:183
 msgid "학생 목록"
 msgstr "Student List"
 
-#: __ROOT__/student.html:185
+#: __ROOT__/student.html:187
 msgid "학교 바로가기"
 msgstr "Jump to school"
 
-#: __ROOT__/student.html:207
+#: __ROOT__/student.html:209
 msgid "필터"
 msgstr "Filter"
 
-#: __ROOT__/student.html:209
+#: __ROOT__/student.html:211
 msgid "[필터 열기]"
 msgstr "[Open Filter]"
 
-#: __ROOT__/student.html:213
+#: __ROOT__/student.html:215
 msgid "모두 해제"
 msgstr "Disable ALL"
 
-#: __ROOT__/student.html:214
+#: __ROOT__/student.html:216
 msgid "검색"
 msgstr "Seach"
 
-#: __ROOT__/student.html:218
+#: __ROOT__/student.html:220
 msgid "검색 조건"
 msgstr "Search Criteria"
 
-#: __ROOT__/student.html:225
+#: __ROOT__/student.html:227
 msgid "학교"
 msgstr "School"
 
-#: __ROOT__/student.html:233
+#: __ROOT__/student.html:235
 msgid "공격 타입"
 msgstr "Attack Type"
 
-#: __ROOT__/student.html:241
+#: __ROOT__/student.html:243
 msgid "방어 타입"
 msgstr "Defense Type"
 
-#: __ROOT__/student.html:249
+#: __ROOT__/student.html:251
 msgid "역할"
 msgstr "Squad"
 
-#: __ROOT__/student.html:257
+#: __ROOT__/student.html:259
 msgid "포지션"
 msgstr "Position"
 
-#: __ROOT__/student.html:265
+#: __ROOT__/student.html:267
 msgid "시가전 적성"
 msgstr "城鎮戰"
 
-#: __ROOT__/student.html:273
+#: __ROOT__/student.html:275
 msgid "야전 적성"
 msgstr "野戰"
 
-#: __ROOT__/student.html:281
+#: __ROOT__/student.html:283
 msgid "실내 적성"
 msgstr "室內戰"
 
-#: __ROOT__/student.html:289
+#: __ROOT__/student.html:291
 msgid "별"
 msgstr "Rarity"
 
-#: __ROOT__/student.html:297
+#: __ROOT__/student.html:299
 msgid "스킨"
 msgstr "Skin"
 
-#: __ROOT__/student.html:319
+#: __ROOT__/student.html:321
 msgid "* <i>기울어진 이름</i>은 일본 서버에만 있는 캐릭터"
 msgstr ""
 "* <I>Italic name</I> is a character that only exists on the Japanese server"
 
-#: __ROOT__/student.html:408
+#: __ROOT__/student.html:410
 msgid "알 수 없는 오류로 인해 학생 목록 페이지로 돌아왔습니다."
 msgstr "You have returned to the Student List page due to an unknown error."
 
-#: __ROOT__/student.html:410
+#: __ROOT__/student.html:412
 msgid "학생을 찾을 수 없어 학생 목록 페이지로 돌아왔습니다."
 msgstr "The student was not found and returned to the Student List page."
 
@@ -1462,6 +1477,8 @@ msgstr ""
 
 #: __ROOT__/tool/item-calculator.html:145
 #: __ROOT__/tool/item-calculator.html:147
+#: __ROOT__/contents/voice-room.html:70
+#: __ROOT__/contents/voice-room.html:72
 msgid "전체 학교"
 msgstr "All Schools"
 
@@ -1475,6 +1492,7 @@ msgstr "Calculate"
 
 #: __ROOT__/contents/event.html:20
 #: __ROOT__/contents/event.html:120
+#: __ROOT__/contents/voice-room.html:111
 msgid "이벤트"
 msgstr "Event"
 
@@ -1739,6 +1757,57 @@ msgstr "Rarity"
 msgid "카드"
 msgstr "卡"
 
+#: __ROOT__/contents/voice-room.html:24
+#: __ROOT__/contents/voice-room.html:55
+msgid "보이스룸"
+msgstr "Voice Recap Watch Mode"
+
+#: __ROOT__/contents/voice-room.html:39
+#: __ROOT__/contents/voice-room.html:107
+msgid "유형"
+msgstr "Type"
+
+#: __ROOT__/contents/voice-room.html:40
+#: __ROOT__/contents/voice-room.html:116
+msgid "이벤트 이름"
+msgstr "Event Name"
+
+#: __ROOT__/contents/voice-room.html:41
+#: __ROOT__/contents/voice-room.html:121
+msgid "카테고리"
+msgstr "Category"
+
+#: __ROOT__/contents/voice-room.html:43
+msgid "캐릭터 미선택시 서버, 타입, 카테고리를 모두 선택해야 목록이 표시됩니다"
+msgstr ""
+"if no character is selected, the server, type, and category must all be "
+"selected for the list to appear"
+
+#: __ROOT__/contents/voice-room.html:44
+msgid "기타 보이스는 전체 선택시 캐릭터를 무조건 선택해야합니다"
+msgstr "Etc voices must unconditionally select the character on full selection"
+
+#: __ROOT__/contents/voice-room.html:88
+msgid "언어"
+msgstr "Language"
+
+#: __ROOT__/contents/voice-room.html:110
+msgid "일반 대사"
+msgstr "Common Dialog"
+
+#: __ROOT__/contents/voice-room.html:112
+msgid "기타"
+msgstr "Etc"
+
+#: __ROOT__/contents/voice-room.html:128
+msgid "카테고리 또는 학생을 선택해주세요"
+msgstr "Please select Category or Student"
+
+#: __ROOT__/contents/voice-room.html:132
+msgid "서버를 일본으로 설정하면 한국어와 일본어 텍스트만 가능합니다."
+msgstr ""
+"If you set the server to Japan, only Korean and Japanese text is available."
+
 #: __ROOT__/contents/stage.html:51
 #: __ROOT__/contents/stage.html:247
 msgid "스테이지"
@@ -1819,9 +1888,6 @@ msgstr "把推薦學園學生編入部隊時，能力值會上升。"
 #: __ROOT__/contents/stage.html:490
 msgid "스테이지 목록"
 msgstr "Stage List"
-
-#~ msgid "기타"
-#~ msgstr "Etc"
 
 #~ msgid "제한 해제"
 #~ msgstr "Limit Break"
