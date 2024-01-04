@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-01 23:06+0900\n"
-"PO-Revision-Date: 2023-12-01 23:19+0900\n"
+"POT-Creation-Date: 2024-01-04 15:09+0900\n"
+"PO-Revision-Date: 2024-01-04 15:11+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: th_TH\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.4\n"
+"X-Generator: Poedit 3.4.1\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: _\n"
@@ -406,8 +406,8 @@ msgstr "Please choose an item"
 #: __ROOT__/furniture.html:84
 #: __ROOT__/table/favor.html:158
 #: __ROOT__/tool/item-calculator.html:140
-#: __ROOT__/contents/voice-room.html:65
-#: __ROOT__/contents/voice-room.html:99
+#: __ROOT__/contents/voice-room.html:67
+#: __ROOT__/contents/voice-room.html:101
 #: __ROOT__/contents/stage.html:365
 msgid "서버"
 msgstr "server"
@@ -417,8 +417,8 @@ msgstr "server"
 #: __ROOT__/furniture.html:87
 #: __ROOT__/table/favor.html:161
 #: __ROOT__/tool/item-calculator.html:142
-#: __ROOT__/contents/voice-room.html:67
-#: __ROOT__/contents/voice-room.html:102
+#: __ROOT__/contents/voice-room.html:69
+#: __ROOT__/contents/voice-room.html:104
 msgid "일본"
 msgstr "Japan"
 
@@ -427,8 +427,8 @@ msgstr "Japan"
 #: __ROOT__/furniture.html:88
 #: __ROOT__/table/favor.html:162
 #: __ROOT__/tool/item-calculator.html:143
-#: __ROOT__/contents/voice-room.html:68
-#: __ROOT__/contents/voice-room.html:103
+#: __ROOT__/contents/voice-room.html:70
+#: __ROOT__/contents/voice-room.html:105
 msgid "글로벌"
 msgstr "Global"
 
@@ -503,12 +503,22 @@ msgid "테마별 가구 목록입니다"
 msgstr "List of furnitures by series"
 
 #: __ROOT__/index.html:100
+#: __ROOT__/contents/voice-room.html:24
+#: __ROOT__/contents/voice-room.html:55
+msgid "보이스룸"
+msgstr "Voice Recap Watch Mode"
+
+#: __ROOT__/index.html:103
+msgid "캐릭터 보이스를 들을 수 있습니다"
+msgstr "You can replay students' voice"
+
+#: __ROOT__/index.html:113
 #: __ROOT__/tool/item-calculator-result.html:153
 #: __ROOT__/tool/item-calculator.html:72
 msgid "도구"
 msgstr "Tool"
 
-#: __ROOT__/index.html:107
+#: __ROOT__/index.html:120
 #: __ROOT__/tool/item-calculator-result.html:78
 #: __ROOT__/tool/item-calculator-result.html:154
 #: __ROOT__/tool/item-calculator.html:23
@@ -516,61 +526,61 @@ msgstr "Tool"
 msgid "재화 계산기"
 msgstr "Item Calculator"
 
-#: __ROOT__/index.html:110
+#: __ROOT__/index.html:123
 msgid "레벨/장비/스킬작 재화 계산기"
 msgstr "Level/Equipment/Skill-Up Item Calculator"
 
-#: __ROOT__/index.html:119
+#: __ROOT__/index.html:132
 #: __ROOT__/flying-yuuka.html:10
 msgid "플라잉 유우카"
 msgstr "Flying Yuuka"
 
-#: __ROOT__/index.html:122
+#: __ROOT__/index.html:135
 msgid "플라잉 유우카 화면보호기"
 msgstr "Flying Yuuka Screensaver"
 
-#: __ROOT__/index.html:132
+#: __ROOT__/index.html:145
 #: __ROOT__/table/favor.html:145
 msgid "테이블"
 msgstr "Table"
 
-#: __ROOT__/index.html:140
+#: __ROOT__/index.html:153
 msgid "학생별 선호 선물"
 msgstr "Gift Data"
 
-#: __ROOT__/index.html:143
+#: __ROOT__/index.html:156
 msgid "학생별<=>선물별 선호도 데이터 테이블"
 msgstr "Preference data table by student and gift"
 
-#: __ROOT__/index.html:153
+#: __ROOT__/index.html:166
 #: __ROOT__/contents/event.html:119
 #: __ROOT__/contents/stage.html:246
 msgid "콘텐츠"
 msgstr "Contents"
 
-#: __ROOT__/index.html:161
+#: __ROOT__/index.html:174
 msgid "이벤트 정보"
 msgstr "Event Info"
 
-#: __ROOT__/index.html:164
+#: __ROOT__/index.html:177
 msgid "서버별 전체 이벤트 정보 보기"
 msgstr "View all event information by server"
 
-#: __ROOT__/index.html:172
+#: __ROOT__/index.html:185
 #: __ROOT__/contents/event.html:129
 #: __ROOT__/contents/stage.html:256
 msgid "임무 정보"
 msgstr "ข้อมูลภารกิจ"
 
-#: __ROOT__/index.html:175
+#: __ROOT__/index.html:188
 msgid "임무/현상수배/특별의뢰/교류회 정보 보기"
 msgstr "แสดงข้อมูลของ ภารกิจ//คำขอพิเศษ/ทัวร์โรงเรียน"
 
-#: __ROOT__/index.html:184
+#: __ROOT__/index.html:197
 msgid "미니게임"
 msgstr "Minigame"
 
-#: __ROOT__/index.html:187
+#: __ROOT__/index.html:200
 msgid "웹에서 플레이하는 공식 미니게임 아카이브와 비공식 번역 패치"
 msgstr ""
 "mini-game archives and unofficial translation patches played on the web"
@@ -1477,8 +1487,8 @@ msgstr ""
 
 #: __ROOT__/tool/item-calculator.html:145
 #: __ROOT__/tool/item-calculator.html:147
-#: __ROOT__/contents/voice-room.html:70
 #: __ROOT__/contents/voice-room.html:72
+#: __ROOT__/contents/voice-room.html:74
 msgid "전체 학교"
 msgstr "All Schools"
 
@@ -1492,7 +1502,7 @@ msgstr "Calculate"
 
 #: __ROOT__/contents/event.html:20
 #: __ROOT__/contents/event.html:120
-#: __ROOT__/contents/voice-room.html:111
+#: __ROOT__/contents/voice-room.html:113
 msgid "이벤트"
 msgstr "Event"
 
@@ -1713,67 +1723,71 @@ msgstr ""
 "※The probability below is the default probability without variation "
 "correction."
 
-#: __ROOT__/contents/event.html:434
+#: __ROOT__/contents/event.html:431
+msgid ""
+"※보상 중 초록색 박스로 묶여있는 것은 묶인 아이템들 중 하나가 나온다는 뜻입니"
+"다.<br>확률 표기가 없으면 각 아이템의 확률은 모두 동일합니다."
+msgstr ""
+"※If a reward is bundled in a green box, it means that one of the bundled "
+"items will appear.<br>Without odds, each item has the same chance of "
+"appearing."
+
+#: __ROOT__/contents/event.html:435
 msgid "운세"
 msgstr "โชค"
 
-#: __ROOT__/contents/event.html:435
-#: __ROOT__/contents/event.html:471
+#: __ROOT__/contents/event.html:436
+#: __ROOT__/contents/event.html:472
 msgid "확률"
 msgstr "ความน่าจะเป็น"
 
-#: __ROOT__/contents/event.html:436
+#: __ROOT__/contents/event.html:437
 msgid "내용"
 msgstr "Detail"
 
-#: __ROOT__/contents/event.html:437
-#: __ROOT__/contents/event.html:472
+#: __ROOT__/contents/event.html:438
+#: __ROOT__/contents/event.html:473
 msgid "보상"
 msgstr "รางวัล"
 
-#: __ROOT__/contents/event.html:448
+#: __ROOT__/contents/event.html:449
 msgid "주사위 달리기"
 msgstr "เกมทอยลูกเต๋า"
 
-#: __ROOT__/contents/event.html:455
+#: __ROOT__/contents/event.html:456
 msgid "트랙 완주 보상 정보"
 msgstr "ข้อมูลรางวัลเข้าเส้นชัย"
 
-#: __ROOT__/contents/event.html:462
+#: __ROOT__/contents/event.html:463
 msgid "이벤트 카드 상점"
 msgstr "ร้านค้าการ์ดกิจกรรม"
 
-#: __ROOT__/contents/event.html:465
+#: __ROOT__/contents/event.html:466
 msgid "※아래 확률은 SR 이상 보정이 적용되지 않은 확률입니다."
 msgstr ""
 "※The probability below is the probability that SR or higher calibration is "
 "not applied."
 
-#: __ROOT__/contents/event.html:469
+#: __ROOT__/contents/event.html:470
 msgid "레어도"
 msgstr "ของหายาก"
 
-#: __ROOT__/contents/event.html:470
+#: __ROOT__/contents/event.html:471
 msgid "카드"
 msgstr "การ์ด"
 
-#: __ROOT__/contents/voice-room.html:24
-#: __ROOT__/contents/voice-room.html:55
-msgid "보이스룸"
-msgstr "Voice Recap Watch Mode"
-
 #: __ROOT__/contents/voice-room.html:39
-#: __ROOT__/contents/voice-room.html:107
+#: __ROOT__/contents/voice-room.html:109
 msgid "유형"
 msgstr "Type"
 
 #: __ROOT__/contents/voice-room.html:40
-#: __ROOT__/contents/voice-room.html:116
+#: __ROOT__/contents/voice-room.html:118
 msgid "이벤트 이름"
 msgstr "Event Name"
 
 #: __ROOT__/contents/voice-room.html:41
-#: __ROOT__/contents/voice-room.html:121
+#: __ROOT__/contents/voice-room.html:123
 msgid "카테고리"
 msgstr "Category"
 
@@ -1787,23 +1801,23 @@ msgstr ""
 msgid "기타 보이스는 전체 선택시 캐릭터를 무조건 선택해야합니다"
 msgstr "Etc voices must unconditionally select the character on full selection"
 
-#: __ROOT__/contents/voice-room.html:88
+#: __ROOT__/contents/voice-room.html:90
 msgid "언어"
 msgstr "Language"
 
-#: __ROOT__/contents/voice-room.html:110
+#: __ROOT__/contents/voice-room.html:112
 msgid "일반 대사"
 msgstr "Common Dialog"
 
-#: __ROOT__/contents/voice-room.html:112
+#: __ROOT__/contents/voice-room.html:114
 msgid "기타"
 msgstr "Etc"
 
-#: __ROOT__/contents/voice-room.html:128
+#: __ROOT__/contents/voice-room.html:130
 msgid "카테고리 또는 학생을 선택해주세요"
 msgstr "Please select Category or Student"
 
-#: __ROOT__/contents/voice-room.html:132
+#: __ROOT__/contents/voice-room.html:134
 msgid "서버를 일본으로 설정하면 한국어와 일본어 텍스트만 가능합니다."
 msgstr ""
 "If you set the server to Japan, only Korean and Japanese text is available."

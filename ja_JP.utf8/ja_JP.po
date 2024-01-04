@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-01 23:06+0900\n"
-"PO-Revision-Date: 2023-12-01 23:14+0900\n"
+"POT-Creation-Date: 2024-01-04 15:09+0900\n"
+"PO-Revision-Date: 2024-01-04 15:12+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja_JP\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.4\n"
+"X-Generator: Poedit 3.4.1\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: _\n"
@@ -409,8 +409,8 @@ msgstr "アイテムをお選びください"
 #: __ROOT__/furniture.html:84
 #: __ROOT__/table/favor.html:158
 #: __ROOT__/tool/item-calculator.html:140
-#: __ROOT__/contents/voice-room.html:65
-#: __ROOT__/contents/voice-room.html:99
+#: __ROOT__/contents/voice-room.html:67
+#: __ROOT__/contents/voice-room.html:101
 #: __ROOT__/contents/stage.html:365
 msgid "서버"
 msgstr "サーバー"
@@ -420,8 +420,8 @@ msgstr "サーバー"
 #: __ROOT__/furniture.html:87
 #: __ROOT__/table/favor.html:161
 #: __ROOT__/tool/item-calculator.html:142
-#: __ROOT__/contents/voice-room.html:67
-#: __ROOT__/contents/voice-room.html:102
+#: __ROOT__/contents/voice-room.html:69
+#: __ROOT__/contents/voice-room.html:104
 msgid "일본"
 msgstr "JP"
 
@@ -430,8 +430,8 @@ msgstr "JP"
 #: __ROOT__/furniture.html:88
 #: __ROOT__/table/favor.html:162
 #: __ROOT__/tool/item-calculator.html:143
-#: __ROOT__/contents/voice-room.html:68
-#: __ROOT__/contents/voice-room.html:103
+#: __ROOT__/contents/voice-room.html:70
+#: __ROOT__/contents/voice-room.html:105
 msgid "글로벌"
 msgstr "グローバル"
 
@@ -506,12 +506,22 @@ msgid "테마별 가구 목록입니다"
 msgstr "シリーズ別の家具一覧です"
 
 #: __ROOT__/index.html:100
+#: __ROOT__/contents/voice-room.html:24
+#: __ROOT__/contents/voice-room.html:55
+msgid "보이스룸"
+msgstr "CV鑑賞室"
+
+#: __ROOT__/index.html:103
+msgid "캐릭터 보이스를 들을 수 있습니다"
+msgstr "キャラクターボイスを聞くことができます"
+
+#: __ROOT__/index.html:113
 #: __ROOT__/tool/item-calculator-result.html:153
 #: __ROOT__/tool/item-calculator.html:72
 msgid "도구"
 msgstr "ツール"
 
-#: __ROOT__/index.html:107
+#: __ROOT__/index.html:120
 #: __ROOT__/tool/item-calculator-result.html:78
 #: __ROOT__/tool/item-calculator-result.html:154
 #: __ROOT__/tool/item-calculator.html:23
@@ -519,61 +529,61 @@ msgstr "ツール"
 msgid "재화 계산기"
 msgstr "財貨計算機"
 
-#: __ROOT__/index.html:110
+#: __ROOT__/index.html:123
 msgid "레벨/장비/스킬작 재화 계산기"
 msgstr "レベル/装備/スキルアップ財貨計算機"
 
-#: __ROOT__/index.html:119
+#: __ROOT__/index.html:132
 #: __ROOT__/flying-yuuka.html:10
 msgid "플라잉 유우카"
 msgstr "フライングユウカ"
 
-#: __ROOT__/index.html:122
+#: __ROOT__/index.html:135
 msgid "플라잉 유우카 화면보호기"
 msgstr "フライングユウカスクリーンセーバー"
 
-#: __ROOT__/index.html:132
+#: __ROOT__/index.html:145
 #: __ROOT__/table/favor.html:145
 msgid "테이블"
 msgstr "テーブル"
 
-#: __ROOT__/index.html:140
+#: __ROOT__/index.html:153
 msgid "학생별 선호 선물"
 msgstr "学生別選好贈り物"
 
-#: __ROOT__/index.html:143
+#: __ROOT__/index.html:156
 msgid "학생별<=>선물별 선호도 데이터 테이블"
 msgstr "学生別<=>贈り物別選好度データテーブル"
 
-#: __ROOT__/index.html:153
+#: __ROOT__/index.html:166
 #: __ROOT__/contents/event.html:119
 #: __ROOT__/contents/stage.html:246
 msgid "콘텐츠"
 msgstr "コンテンツ"
 
-#: __ROOT__/index.html:161
+#: __ROOT__/index.html:174
 msgid "이벤트 정보"
 msgstr "イベント情報"
 
-#: __ROOT__/index.html:164
+#: __ROOT__/index.html:177
 msgid "서버별 전체 이벤트 정보 보기"
 msgstr "サーバー別の全イベント情報を表示"
 
-#: __ROOT__/index.html:172
+#: __ROOT__/index.html:185
 #: __ROOT__/contents/event.html:129
 #: __ROOT__/contents/stage.html:256
 msgid "임무 정보"
 msgstr "任務情報"
 
-#: __ROOT__/index.html:175
+#: __ROOT__/index.html:188
 msgid "임무/현상수배/특별의뢰/교류회 정보 보기"
 msgstr "お仕事/指名手配/特別依頼/学園交流会の情報を見る"
 
-#: __ROOT__/index.html:184
+#: __ROOT__/index.html:197
 msgid "미니게임"
 msgstr "ミニゲーム"
 
-#: __ROOT__/index.html:187
+#: __ROOT__/index.html:200
 msgid "웹에서 플레이하는 공식 미니게임 아카이브와 비공식 번역 패치"
 msgstr "web上でプレイする公式ミニゲームアーカイブと非公式翻訳パッチ"
 
@@ -1486,8 +1496,8 @@ msgstr ""
 
 #: __ROOT__/tool/item-calculator.html:145
 #: __ROOT__/tool/item-calculator.html:147
-#: __ROOT__/contents/voice-room.html:70
 #: __ROOT__/contents/voice-room.html:72
+#: __ROOT__/contents/voice-room.html:74
 msgid "전체 학교"
 msgstr "全学校"
 
@@ -1501,7 +1511,7 @@ msgstr "計算"
 
 #: __ROOT__/contents/event.html:20
 #: __ROOT__/contents/event.html:120
-#: __ROOT__/contents/voice-room.html:111
+#: __ROOT__/contents/voice-room.html:113
 msgid "이벤트"
 msgstr "イベント"
 
@@ -1720,65 +1730,69 @@ msgstr "おみくじ"
 msgid "※아래 확률은 변동 보정이 적용되지 않은 기본 확률입니다."
 msgstr "※下記確率は変動補正が適用されない基本確率です。"
 
-#: __ROOT__/contents/event.html:434
+#: __ROOT__/contents/event.html:431
+msgid ""
+"※보상 중 초록색 박스로 묶여있는 것은 묶인 아이템들 중 하나가 나온다는 뜻입"
+"니다.<br>확률 표기가 없으면 각 아이템의 확률은 모두 동일합니다."
+msgstr ""
+"※報酬の中で緑色のボックスで囲まれているのは、囲まれているアイテムの一つが"
+"出ることを意味します。<br>確率表記がない場合、各アイテムの確率は全て同じで"
+"す。"
+
+#: __ROOT__/contents/event.html:435
 msgid "운세"
 msgstr "占い"
 
-#: __ROOT__/contents/event.html:435
-#: __ROOT__/contents/event.html:471
+#: __ROOT__/contents/event.html:436
+#: __ROOT__/contents/event.html:472
 msgid "확률"
 msgstr "確率"
 
-#: __ROOT__/contents/event.html:436
+#: __ROOT__/contents/event.html:437
 msgid "내용"
 msgstr "内容"
 
-#: __ROOT__/contents/event.html:437
-#: __ROOT__/contents/event.html:472
+#: __ROOT__/contents/event.html:438
+#: __ROOT__/contents/event.html:473
 msgid "보상"
 msgstr "報酬獲得済み"
 
-#: __ROOT__/contents/event.html:448
+#: __ROOT__/contents/event.html:449
 msgid "주사위 달리기"
 msgstr "サイコロラン"
 
-#: __ROOT__/contents/event.html:455
+#: __ROOT__/contents/event.html:456
 msgid "트랙 완주 보상 정보"
 msgstr "完走報酬情報"
 
-#: __ROOT__/contents/event.html:462
+#: __ROOT__/contents/event.html:463
 msgid "이벤트 카드 상점"
 msgstr "カードプレイエリアイベント開始"
 
-#: __ROOT__/contents/event.html:465
+#: __ROOT__/contents/event.html:466
 msgid "※아래 확률은 SR 이상 보정이 적용되지 않은 확률입니다."
 msgstr "※下記確率はSR以上確定補正が適用されない確率です。"
 
-#: __ROOT__/contents/event.html:469
+#: __ROOT__/contents/event.html:470
 msgid "레어도"
 msgstr "レアリティ"
 
-#: __ROOT__/contents/event.html:470
+#: __ROOT__/contents/event.html:471
 msgid "카드"
 msgstr "カード"
 
-#: __ROOT__/contents/voice-room.html:24
-#: __ROOT__/contents/voice-room.html:55
-msgid "보이스룸"
-msgstr "CV鑑賞室"
-
 #: __ROOT__/contents/voice-room.html:39
-#: __ROOT__/contents/voice-room.html:107
+#: __ROOT__/contents/voice-room.html:109
 msgid "유형"
 msgstr "タイプ"
 
 #: __ROOT__/contents/voice-room.html:40
-#: __ROOT__/contents/voice-room.html:116
+#: __ROOT__/contents/voice-room.html:118
 msgid "이벤트 이름"
 msgstr "イベント名"
 
 #: __ROOT__/contents/voice-room.html:41
-#: __ROOT__/contents/voice-room.html:121
+#: __ROOT__/contents/voice-room.html:123
 msgid "카테고리"
 msgstr "カテゴリー"
 
@@ -1794,23 +1808,23 @@ msgid "기타 보이스는 전체 선택시 캐릭터를 무조건 선택해야�
 msgstr ""
 "その他ボイスは全体選択時にキャラクターを無条件で選択する必要があります。"
 
-#: __ROOT__/contents/voice-room.html:88
+#: __ROOT__/contents/voice-room.html:90
 msgid "언어"
 msgstr "言語"
 
-#: __ROOT__/contents/voice-room.html:110
+#: __ROOT__/contents/voice-room.html:112
 msgid "일반 대사"
 msgstr "一般セリフ"
 
-#: __ROOT__/contents/voice-room.html:112
+#: __ROOT__/contents/voice-room.html:114
 msgid "기타"
 msgstr "その他"
 
-#: __ROOT__/contents/voice-room.html:128
+#: __ROOT__/contents/voice-room.html:130
 msgid "카테고리 또는 학생을 선택해주세요"
 msgstr "カテゴリーまたは学生を選択してください"
 
-#: __ROOT__/contents/voice-room.html:132
+#: __ROOT__/contents/voice-room.html:134
 msgid "서버를 일본으로 설정하면 한국어와 일본어 텍스트만 가능합니다."
 msgstr "サーバーを日本に設定すると、韓国語と日本語のテキストのみ可能です。"
 
