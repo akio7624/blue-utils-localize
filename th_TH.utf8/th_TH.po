@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-04 15:09+0900\n"
-"PO-Revision-Date: 2024-01-04 15:11+0900\n"
+"POT-Creation-Date: 2024-01-26 23:09+0900\n"
+"PO-Revision-Date: 2024-01-26 23:11+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: th_TH\n"
@@ -636,9 +636,6 @@ msgstr "Growth Material Count"
 
 #: __ROOT__/student-detail-normal.html:505
 #: __ROOT__/student-detail-normal.html:1586
-#: __ROOT__/student-detail-normal.html:1729
-#: __ROOT__/student-detail-normal.html:1766
-#: __ROOT__/student-detail-normal.html:1842
 msgid "[펼치기]"
 msgstr "[Open]"
 
@@ -905,13 +902,17 @@ msgstr "ADD"
 msgid "누적"
 msgstr "TOTAL"
 
-#: __ROOT__/student-detail-normal.html:1723
+#: __ROOT__/student-detail-normal.html:1626
 msgid "대사"
 msgstr "Dialog"
 
-#: __ROOT__/student-detail-normal.html:1761
-msgid "기타 대사"
-msgstr "Etc. Dialog"
+#: __ROOT__/student-detail-normal.html:1633
+msgid ""
+"대사 듣기 기능은 <a href=\"/contents/voice-room\">보이스룸</a>으로 이동하였습"
+"니다."
+msgstr ""
+"The dialog and voice replay table has been moved to the <a href=\"/contents/"
+"voice-room\">Voice Recap Watch Mode</a>."
 
 #: __ROOT__/api/category.php:8
 #: __ROOT__/api/furniture.php:7
@@ -1902,6 +1903,9 @@ msgstr "จัดทีมรวมนักเรียนที่แนะน
 #: __ROOT__/contents/stage.html:490
 msgid "스테이지 목록"
 msgstr "Stage List"
+
+#~ msgid "기타 대사"
+#~ msgstr "Etc. Dialog"
 
 #~ msgid "제한 해제"
 #~ msgstr "Limit Break"
